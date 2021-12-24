@@ -15,3 +15,4 @@ If you have any google dork, just create a PullRequest.
 # Ideas
 
 - [ ] log file dorks
+- [ ] best reports
