@@ -16,6 +16,7 @@ If you have any google dork, just create a PullRequest.
 
 - [ ] log file dorks
 - [ ] best reports
+- [ ] finding aws secrets 
 
 # GitHub Dorks for Finding Files
 
