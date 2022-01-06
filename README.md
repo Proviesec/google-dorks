@@ -18,6 +18,8 @@ If you have any google dork, just create a PullRequest.
 - [ ] best reports
 - [ ] finding aws secrets 
 
+
+
 # GitHub Dorks for Finding Files
 
 - filename:manifest.xml
