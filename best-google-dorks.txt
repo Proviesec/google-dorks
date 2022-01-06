@@ -1,3 +1,5 @@
 intitle:"index of" 
 intext:"Index of /" +.htaccess
 filetype:log
+filename:config.php dbpasswd
+filename:config.php pass
