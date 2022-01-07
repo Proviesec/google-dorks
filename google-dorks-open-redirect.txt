@@ -1,0 +1,3 @@
+inurl:url inurl:&
+inurl:redirect inurl:&
+inurl:continue inurl:&
