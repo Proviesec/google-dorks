@@ -2,3 +2,5 @@ inurl:& inurl:test
 inurl:& inurl:quiz
 inurl:& inurl:survey
 inurl:& inurl:form
+inurl:& inurl:title
+inurl:& inurl:search
