@@ -3,3 +3,6 @@ intext:"Index of /" +.htaccess
 filetype:log
 filename:config.php dbpasswd
 filename:config.php pass
+filename:config.php password
+filename:config pass
+filename:config secret 
