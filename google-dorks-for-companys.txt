@@ -1,0 +1,6 @@
+site:http://repl.it intext:company
+site:http://zoom.us inurl:company
+site:http://atlassian.net inurl:company
+site:http://s3.amazonaws.com inurl:company
+site:http://pastebin.com inurl:company
+site:http://scribd.com intext:company.com
