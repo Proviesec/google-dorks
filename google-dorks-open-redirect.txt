@@ -2,3 +2,4 @@ inurl:url inurl:&
 inurl:redirect inurl:&
 inurl:continue inurl:&
 inurl:next inurl:&
+inurl:http 
