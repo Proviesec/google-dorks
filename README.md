@@ -14,6 +14,7 @@ If you have any google dork, just create a PullRequest.
 
 
 ## Search filters
+
 | Filter          | Description                                        | Example                              |
 | :-------------- |:---------------------------------------------------| :------------------------------------|
 | allintext      | Searches for occurrences of all specified keywords. | `allintext:"keyword"` |
@@ -59,7 +60,7 @@ site:github.com & site:twitter.com
 ```
 
 #### Operators combinaison
-
+This operator combines search terms 
 ```
 (site:instagram.com | site:twitter.com) (intext:"admin")
 (site:instagram.com | site:twitter.com) & intext:"admin"
