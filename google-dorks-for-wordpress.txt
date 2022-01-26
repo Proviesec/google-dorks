@@ -31,3 +31,22 @@ inurl:"wp-contentpluginsall-in-one-seo-pack"
 inurl:"wp-download.php?dl_id="
 inurl:"wp-license.php?file=../..//wp-config"
 inurl:"wp-security-audit-log" ext:log
+inurl:/wp-admin/admin-ajax.php?action=revslider_ajax_action
+inurl:/wp-admin/admin.php intitle:"Log In"
+inurl:/wp-admin/includes/plugin-install.php
+inurl:/wp-admin/post.php?post=
+inurl:/wp-content/ai1wm-backups + wpress
+inurl:/wp-content/plugins/fgallery/
+inurl:/wp-content/plugins/inboundio-marketing/
+inurl:/wp-content/plugins/seo-pressor/classes/
+inurl:/wp-content/plugins/wpSS/
+inurl:/wp-content/themes/tigin/
+inurl:/wp-content/themes/xunjin/
+inurl:/wp-content/uploads/ filetype:sql
+inurl:/wp-content/uploads/ninja-forms/ intitle:"index of"
+inurl:/wp-content/uploads/wp-backup-plus/
+inurl:/wp-content/w3tc/dbcache/
+inurl:/wp-content/wpbackitup_backups
+inurl:/wp-includes/certificates/
+inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
+inurl:/wp/wp-admin/
