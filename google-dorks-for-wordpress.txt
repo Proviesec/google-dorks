@@ -1,0 +1,21 @@
+inurl:"/wp-admin/setup-config.php" intitle:"Setup Configuration File"
+inurl:"/wp-content/plugins/wp-mobile-detector/" ext:php
+inurl:"/wp-content/plugins/wp-shopping-cart/"
+inurl:"/wp-content/uploads/db-backup"
+inurl:"/wp-content/uploads/levoslideshow/"
+inurl:"/wp-content/wpclone-temp/wpclone_backup/"
+inurl:"/wp-json/" -wordpress
+inurl:"/wp-login.php?action=lostpassword"
+site:*/wordpress/wordpress.bak/
+site:*/wp-admin/install.php intitle:WordPress Installation
+site:*/wp-admin/maint/repair.php intext:"define(WP_ALLOW_REPAIR,true);"
+site:*/wp-admin/user-edit.php
+site:*/wp-contents/ inurl:/wp-contents/
+site:*/wp-includes/ inurl:/wp-includes/
+site:*/wp-includes/Requests/php_errorlog
+site:*/wp-login?redirect_to= intitle:"login"
+site:*/wp-settings.php
+"is proudly powered by WordPress"
+"plugins/wp-db-backup/wp-db-backup.php"
+filetype:sql inurl:wp-content/backup-*
+filetype:txt inurl:wp-config.txt
