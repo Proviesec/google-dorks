@@ -25,3 +25,9 @@ intitle:"Index of" wp-config
 intitle:"Index of" wp-config.php
 intitle:"Index of" wp-content
 intitle:"Index of" wp-upload
+inurl:"wp-content/uploads/file-manager/log.txt"
+inurl:"wp-content/uploads/private"
+inurl:"wp-contentpluginsall-in-one-seo-pack"
+inurl:"wp-download.php?dl_id="
+inurl:"wp-license.php?file=../..//wp-config"
+inurl:"wp-security-audit-log" ext:log
