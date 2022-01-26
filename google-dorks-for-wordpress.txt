@@ -51,3 +51,22 @@ inurl:/wp-includes/certificates/
 inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
 inurl:/wp/wp-admin/
 inurl:log -intext:log ext:log inurl:wp-
+inurl:wp-admin/ intext:css/
+inurl:wp-admin/admin-ajax.php inurl:wp-config.php
+inurl:wp-config -intext:wp-config "'DB_PASSWORD'"
+inurl:wp-config-backup.txt
+inurl:wp-config.bak
+inurl:wp-config.php intext:DB_PASSWORD -stackoverflow -wpbeginner
+inurl:wp-content intext:backup-db
+inurl:wp-content/debug.log
+inurl:wp-content/plugins/age-verification/age-verification.php
+inurl:wp-content/uploads filetype:xls | filetype:xlsx password
+inurl:wp-content/uploads/dump.sql
+inurl:wp-links-opml.php
+inurl:wp-login.php +Register Username Password "remember me" -echo -trac -footwear
+inurl:wp-login.php Register Username Password -echo
+inurl:wp-login.php?action=register
+inurl:wp-mail.php  + "There doesn't seem to be any new mail."
+inurl:wp-mail.php + "There doesn't seem to be any new mail."
+inurl:wp-mail.php + “There doesn’t seem to be any new mail.”
+inurl:wp/wp-login.php
