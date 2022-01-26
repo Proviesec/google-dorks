@@ -82,3 +82,93 @@ filename:WebServers.xml
 filename:jupyter_notebook_config.json
 extension:yaml cloud.redislabs.com
 extension:json cloud.redislabs.com
+(intext:"index of /.git") ("parent directory")
+/_wpeprivate/config.json
+intitle:index of "uploads"
+intitle:index of /.sql.gz intext:/backup/
+intitle:index of /weekly cpbackup
+intitle:index of AND (intext:mirai.x86 OR intext:mirai.mips OR intext:mirai.mpsl OR intext:mirai.arm OR intext:mirai.arm7 OR intext:mirai.ppc OR intext:mirai.spc OR intext:mirai.m68k OR intext:mirai.sh4)
+intitle:index of intext:@WanaDecryptor@.exe
+intitle:index of intext:wncry
+intitle:index.of "Apache" "server at"
+intitle:index.of "access.conf"
+intitle:index.of "admin" filetype:sql
+intitle:index.of "admin.db"
+intitle:index.of "awsconfig.json"
+intitle:index.of "backwpup"
+intitle:index.of "cacert.pem"
+intitle:index.of "chroot.conf"
+intitle:index.of "credential.txt"
+intitle:index.of "creds.txt"
+intitle:index.of "database.db"
+intitle:index.of "db.zip"
+intitle:index.of "htaccess.txt"
+intitle:index.of "key.txt"
+intitle:index.of "keys.txt"
+intitle:index.of "private-key.pem"
+intitle:index.of "system.db"
+intitle:index.of "userpass.txt"
+intitle:index.of "users.db"
+intitle:index.of (inurl:fileadmin | intitle:fileadmin)
+intitle:index.of +"Indexed by Apache::Gallery"
+intitle:index.of .bash_history
+intitle:index.of .bashrc
+intitle:index.of .sh_history
+intitle:index.of /AlbumArt_
+intitle:index.of /maildir/new/
+intitle:index.of WEB-INF
+intitle:index.of abyss.conf
+intitle:index.of administrators.pwd
+intitle:index.of cgiirc.config
+intitle:index.of cgiirc.config'
+intitle:index.of cisco asa -site:cisco.com
+intitle:index.of cleanup.log
+intitle:index.of config.php
+intitle:index.of dead.letter
+intitle:index.of finances.xls
+intitle:index.of haccess.ctl
+intitle:index.of home/000~root~000/
+intitle:index.of id_rsa -id_rsa.pub
+intitle:index.of inbox
+intitle:index.of inbox dbx
+intitle:index.of intext:"secring.skr"|"secring.pgp"|"secring.bak"
+intitle:index.of intext:.bash_history
+intitle:index.of intext:.ssh
+intitle:index.of intext:viewvc
+intitle:index.of intext:zc_install intitle:zen-cart
+intitle:index.of intext:”secring.skr”|”secring.pgp”|”secring.bak”
+intitle:index.of inurl:/websendmail/
+intitle:index.of inurl:grades site:edu
+intitle:index.of inurl:openwebmail -site:openwebmail.org
+intitle:index.of ios -site:cisco.com
+intitle:index.of master.passwd
+intitle:index.of mt-db-pass.cgi
+intitle:index.of mystuff.xml
+intitle:index.of parent inurl:repos
+intitle:index.of passlist
+intitle:index.of passwd passwd.bak
+intitle:index.of people.lst
+intitle:index.of robots.txt
+intitle:index.of secring.pgp
+intitle:index.of trillian.ini
+intitle:index.of ws_ftp.ini
+intitle:index.of “Apache” “server at”
+intitle:index.of./.db
+intitle:index.of./.htaccess
+intitle:index.of./.sql
+intitle:index.of.?.bak
+intitle:index.of.?.config.ini
+intitle:index.of.?.database
+intitle:index.of.?.login
+intitle:index.of.?.mysql
+intitle:index.of.?.sql
+intitle:index.of.accounts
+intitle:index.of.config
+intitle:index.of.dropbox
+intitle:index.of.etc
+intitle:index.of.mail
+intitle:index.of.private
+intitle:index.of.protected
+intitle:index.of.pubs
+intitle:index.of.secret
+intitle:index.of.winnt
