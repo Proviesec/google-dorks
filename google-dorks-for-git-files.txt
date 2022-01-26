@@ -1,0 +1,4 @@
+filename:.git-credentials
+intext:"index of /.git" "parent directory"
+(intext:"index of /.git") ("parent directory")
+inurl:ORIG_HEAD
