@@ -19,3 +19,4 @@ site:*/wp-settings.php
 "plugins/wp-db-backup/wp-db-backup.php"
 filetype:sql inurl:wp-content/backup-*
 filetype:txt inurl:wp-config.txt
+intext:"the WordPress" inurl:wp-config ext:txt
