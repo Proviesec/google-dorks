@@ -20,3 +20,8 @@ site:*/wp-settings.php
 filetype:sql inurl:wp-content/backup-*
 filetype:txt inurl:wp-config.txt
 intext:"the WordPress" inurl:wp-config ext:txt
+intitle:"Index of" wp-admin
+intitle:"Index of" wp-config
+intitle:"Index of" wp-config.php
+intitle:"Index of" wp-content
+intitle:"Index of" wp-upload
