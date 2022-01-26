@@ -50,3 +50,4 @@ inurl:/wp-content/wpbackitup_backups
 inurl:/wp-includes/certificates/
 inurl:/wp-json/wp/v2/users/ "id":1,"name":" -wordpress.stackexchange.com -stackoverflow.com
 inurl:/wp/wp-admin/
+inurl:log -intext:log ext:log inurl:wp-
