@@ -99,6 +99,7 @@ site:*.com
 - [ ] best reports
 - [ ] finding aws secrets 
 - [ ] js secrets 
+- [ ] CMS dorks
 
 # Example 
 
