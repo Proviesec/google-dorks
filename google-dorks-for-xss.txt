@@ -7,3 +7,4 @@ inurl:& inurl:search
 inurl:& inurl:search inurl:q
 inurl:& inurl:search inurl:s
 index.php? inurl:& 
+inurl:search
