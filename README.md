@@ -80,6 +80,14 @@ This will order results by the number of occurrence of the keyword.
 site:twitter.* -site:twitter.com
 ```
 
+### Better Results (Subdomains)
+```
+site:*.site.com
+
+site:*.*.site.com
+
+site:*.*.*.site.com
+```
 #### Synonyms
 
 ```
