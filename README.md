@@ -100,7 +100,6 @@ site:*.*.*.site.com
 site:*.com
 ```
 
-
 # Ideas
 
 - [ ] log file dorks
@@ -108,6 +107,7 @@ site:*.com
 - [ ] finding aws secrets 
 - [ ] js secrets 
 - [ ] CMS dorks
+- [ ] Admin dorks
 
 # Example 
 
