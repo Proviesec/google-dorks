@@ -102,7 +102,8 @@ site:*.com
 
 # Ideas
 
-- [x] Git droks
+- [x] Git dorks
+- [x] phpmyadmin dorks
 - [ ] log file dorks
 - [ ] best reports
 - [ ] finding aws secrets 
