@@ -102,6 +102,7 @@ site:*.com
 
 # Ideas
 
+- [x] Git droks
 - [ ] log file dorks
 - [ ] best reports
 - [ ] finding aws secrets 
