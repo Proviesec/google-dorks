@@ -108,6 +108,8 @@ site:*.com
 - [ ] finding aws secrets 
 - [ ] js secrets 
 - [ ] CMS dorks
+  - [x] Wordpress
+  - [ ] Typo3
 - [ ] Admin dorks
 
 # Example 
