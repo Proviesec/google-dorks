@@ -102,16 +102,17 @@ site:*.com
 
 # Ideas
 
-- [x] Git dorks
-- [x] phpmyadmin dorks
-- [ ] log file dorks
-- [ ] best reports
-- [ ] finding aws secrets 
-- [ ] js secrets 
-- [ ] CMS dorks
+- [x] Git google dorks
+- [x] phpmyadmin google dorks
+- [x] phpinfo google dorks
+- [ ] log file google dorks
+- [ ] best google dorks reports
+- [ ] finding aws secrets with google dorks
+- [ ] js secrets with google dorks
+- [ ] CMS google dorks
   - [x] Wordpress
   - [ ] Typo3
-- [ ] Admin dorks
+- [ ] Admin google dorks
 
 # Example 
 
