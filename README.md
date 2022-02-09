@@ -100,7 +100,6 @@ site:*.com
 ```
 
 # Ideas
-
 - [x] Git google dorks
 - [x] phpmyadmin google dorks
 - [x] phpinfo google dorks
@@ -111,6 +110,7 @@ site:*.com
 - [ ] CMS google dorks
   - [x] Wordpress
   - [ ] Typo3
+  - [ ] Magento
 - [ ] Admin google dorks
 
 # Example 
