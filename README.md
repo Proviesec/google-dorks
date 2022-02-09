@@ -44,7 +44,6 @@ Here is an example:
 ```
 "Admin Loginpage"
 ```
-
 #### OR
 This operator searches for a specific search term OR another term.
 
