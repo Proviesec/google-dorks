@@ -4,6 +4,7 @@ inurl:& inurl:survey
 inurl:& inurl:form
 inurl:& inurl:title
 inurl:& inurl:search
+inurl:& inurl:topic
 inurl:& inurl:search inurl:q
 inurl:& inurl:search inurl:s
 index.php? inurl:& 
