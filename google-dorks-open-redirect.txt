@@ -4,3 +4,4 @@ inurl:continue inurl:&
 inurl:next inurl:&
 inurl:http 
 inurl:=www
+inurl:.com inurl:&
