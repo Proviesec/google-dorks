@@ -103,7 +103,7 @@ site:*.com
 - [x] Git google dorks
 - [x] phpmyadmin google dorks
 - [x] phpinfo google dorks
-- [ ] log file google dorks
+- [x] log file google dorks
 - [ ] best google dorks reports
 - [ ] finding aws secrets with google dorks
 - [ ] js secrets with google dorks
