@@ -23,3 +23,15 @@ inurl:returnTo inurl:&
 inurl:return_to inurl:&
 inurl:return_path inurl:&
 inurl:path inurl:&
+inurl:dest
+inurl:destination
+inurl:redir
+inurl:redirect_uri
+inurl:redirect 
+inurl:view 
+inurl:image_url 
+inurl:return
+inurl:returnTo
+inurl:return_to
+inurl:return_path
+inurl:path
