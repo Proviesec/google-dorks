@@ -10,3 +10,4 @@ filename:env
 filename:setting
 inurl:& intext:search
 inurl:& intext:admin intext:login
+filename:configuration
