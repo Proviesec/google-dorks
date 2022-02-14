@@ -5,3 +5,21 @@ inurl:next inurl:&
 inurl:http 
 inurl:=www
 inurl:.com inurl:&
+inurl:
+inurl:rurl
+inurl:next inurl:&
+inurl:link
+inurl:go inurl:&
+inurl:target inurl:&
+inurl:dest inurl:&
+inurl:destination inurl:&
+inurl:redir inurl:&
+inurl:redirect_uri inurl:&
+inurl:redirect inurl:&
+inurl:view inurl:&
+inurl:image_url inurl:&
+inurl:return inurl:&
+inurl:returnTo inurl:&
+inurl:return_to inurl:&
+inurl:return_path inurl:&
+inurl:path inurl:&
