@@ -1,0 +1,3 @@
+inurl:"typo3/index.php?u=" -demo
+typo3/
+inurl:index.php?id= "TYPO3 CMS"
