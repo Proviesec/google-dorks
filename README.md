@@ -109,7 +109,7 @@ site:*.com
 - [ ] js secrets with google dorks
 - [ ] CMS google dorks
   - [x] Wordpress
-  - [ ] Typo3
+  - [x] Typo3
   - [ ] Magento
 - [ ] Admin google dorks
 
