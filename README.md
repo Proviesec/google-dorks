@@ -111,9 +111,13 @@ site:*.com
   - [x] Wordpress
   - [x] Typo3
   - [ ] Magento
+  - [ ] Joomla
+  - [ ] Drupal
+  - [ ] Shopify
 - [ ] Admin google dorks
 
 # Example 
 
 ![image](https://user-images.githubusercontent.com/6010786/152770177-537fbfa2-235e-4951-a885-12c6a90c40a5.png)
+
 
