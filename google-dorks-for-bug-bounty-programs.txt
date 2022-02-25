@@ -1,0 +1,88 @@
+"If you believe you've found a security vulnerability"
+"If you find a security issue"  "reward"
+"cms" bug bounty
+"powered by bugcrowd" -site:bugcrowd.com
+"powered by synack"
+"responsible disclosure" intext:"you may be eligible for monetary compensation"
+"responsible disclosure" university
+"security vulnerability" "report"
+"submit vulnerability report"
+"van de melding met een minimum van een" -site:responsibledisclosure.nl
+"vulnerability reporting policy"
+/trust/report-a-vulnerability
+buy bitcoins "bug bounty"
+insite:"responsible disclosure" -inurl:nl
+intext responsible disclosure
+intext:"BugBounty" and intext:"BTC" and intext:"reward"
+intext:"we take security very seriously"
+intext:Vulnerability Disclosure site:eu
+intext:Vulnerability Disclosure site:nl
+intext:bounty inurl:/security
+intext:responsible disclosure bounty
+intext:security report monetary inurl:security 
+intext:security report reward inurl:report
+intext:security hackerone
+inurl /bug bounty
+inurl : / responsible-disclosure/ bounty
+inurl : / responsible-disclosure/ swag
+inurl : / security
+inurl : /responsible disclosure
+inurl : /responsible-disclosure/ reward
+inurl"security report"
+inurl: "responsible disclosure", "bug bounty", "bugbounty"
+inurl: private bugbountyprogram
+inurl:"bug bounty" and intext:"$" and inurl:/security
+inurl:"bug bounty" and intext:"INR" and inurl:/security
+inurl:"bug bounty" and intext:"€" and inurl:/security
+inurl:'/responsible disclosure' hoodie
+inurl:'vulnerability-disclosure-policy' reward
+inurl:/.well-known/security ext:txt
+inurl:/.well-known/security ext:txt -hackerone -bugcrowd -synack -openbugbounty
+inurl:/.well-known/security ext:txt intext:hackerone
+inurl:/responsible-disclosure/ university
+inurl:/security ext:txt "contact"
+inurl:/security ext:txt "contact"
+inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
+inurl:reporting-security-issues
+inurl:responsible-disclosure-policy
+inurl:security "reward"
+inurl:security-policy.txt ext:txt
+inurl:security.txt
+responsible disclosure bounty r=h:eu
+responsible disclosure bounty r=h:nl
+responsible disclosure bounty r=h:uk
+responsible disclosure europe
+responsible disclosure hall of fame
+responsible disclosure inurl:in
+responsible disclosure r=h:eu
+responsible disclosure r=h:nl
+responsible disclosure r=h:uk
+responsible disclosure reward r=h:eu
+responsible disclosure reward r=h:nl
+responsible disclosure reward r=h:uk
+responsible disclosure swag r=h:com
+responsible disclosure swag r=h:eu
+responsible disclosure swag r=h:nl
+responsible disclosure swag r=h:uk
+responsible disclosure white hat
+responsible disclosure:sites
+site .nl responsible disclosure
+site eu responsible disclosure
+site responsible disclosure
+site:*.*.* inurl:bug inurl:bounty
+site:*.*.cn intext:security report reward
+site:*.*.de inurl:bug inurl:bounty
+site:*.*.nl intext:responsible disclosure reward
+site:*.*.nl intext:security report reward
+site:*.*.uk intext:security report reward
+site:*.at responsible disclosure
+site:*.au responsible disclosure
+site:*.be responsible disclosure
+site:*.br responsible disclosure
+site:*.edu intext:security report vulnerability
+site:*.gov.* "responsible disclosure"
+site:help.*.* inurl:bounty
+site:responsibledisclosure.com
+site:security.*.* inurl: bounty
+site:support.*.* intext:security report reward
+white hat program
