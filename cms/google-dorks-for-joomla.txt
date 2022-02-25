@@ -1,0 +1,16 @@
+intext:"joomla! 1.6 - Open Source Content Management"
+intext:"joomla! 1.7 - Open Source Content Management"
+intext:Joomla 1.6 inurl:index.php/login
+intext:Joomla 1.6 inurl:index.php/registration
+intext:Joomla 1.7 inurl:index.php/login
+intext:Joomla 1.7 inurl:index.php/registration
+inurl:component/content/
+inurl:component/content/?view=featured&format=feed&type=atom
+inurl:index.php/plugins site:
+inurl:index.php/rss=feed site:
+inurl:index.php/using-joomla/extensions/modules/ intext:joomla! 1.7
+inurl:index.php/using-joomla/extensions/modules/19-sample-data-articles/joomla/50-upgraders
+inurl:index.php/using-joomla/extensions/plugins?format=feed&type=rss
+inurl:index.php?format=feed&type=atom
+inurl:index.php?format=feed&type=rss
+inurl:using-joomla/extensions/templates/beez5/home-page-beez5
