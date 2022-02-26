@@ -5,3 +5,4 @@ site:http://s3.amazonaws.com inurl:company
 site:http://pastebin.com inurl:company
 site:http://scribd.com intext:company.com
 site:http://github.com intext:company.com
+inurl:amazonaws.com inurl:company
