@@ -1,0 +1,204 @@
+"About Mac OS Personal Web Sharing"
+"AnWeb/1.42h" intitle:index.of
+"Application Blocked!" "Google bot"
+"CERN httpd 3.0B (VAX VMS)"
+"Cisco Systems, Inc. All Rights Reserved." -cisco.com filetype:jsp
+"I have been invoked by servletToJSP"
+"JRun Web Server" intitle:index.of
+"MaXX/3.1" intitle:index.of
+"Microsoft-IIS/* server at" intitle:index.of
+"Microsoft-IIS/4.0" intitle:index.of
+"Microsoft-IIS/5.0 server at"
+"Microsoft-IIS/6.0" intitle:index.of
+"NTRIP Caster Table Contents" "This is a SNIP NTRIP Caster"
+"Netware * Home" inurl:nav.html
+"Novell, Inc" WEBACCESS Username Password "Version *.*" Copyright -inurl:help -guides|guide
+"OmniHTTPd/2.10" intitle:index.of
+"OpenSA/1.0.4" intitle:index.of
+"PHP Credits" "Configuration" "PHP Core" ext:php inurl:info
+"Powered by 123LogAnalyzer"
+"Powered by BOINC"
+"Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
+"Powered by vShare"
+"Proudly created with Wix.com"
+"RDServer Product information" | inurl:"/rdagent.jsp"
+"Red Hat Secure/2.0"
+"Red Hat Secure/3.0 server at"
+"Switch to table format" inurl:table|plain
+"This server is operated by OpenX."
+"Wowza Streaming Engine 4 Developer Edition"
+"httpd+ssl/kttd" * server at intitle:index.of
+"index of /private" -site:net -site:com -site:org
+"powered by openbsd" +"powered by apache"
+"powered by" "shoutstats" hourly daily
+"seeing this instead" intitle:"test page for apache"
+"var miner = new CoinHive" intext:document.domain
+(intitle:"502 Proxy Error")|(intitle:"503 Proxy Error") "The proxy server could not handle the request" -topic -mail -4suite -list -site:geocrawler.co
+(inurl:81-cobalt | inurl:cgi-bin/.cobalt)
+-pub -pool intitle:"index of" "Served by" "Web Server"
+Coldbox | contentbox | commandbox "Powered by ContentBox"
+Fwd: intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
+HTTP_USER_AGENT=Googlebot
+Powered.by.RaidenHTTPD intitle:index.of
+XAMPP "inurl:xampp/index"
+aboutprinter.shtml
+allintext:"Index Of" "sftp-config.json"
+allintext:"Powered by LionMax Software" "WWW File Share"
+allintitle:"Pi-hole Admin Console"
+allintitle:Netscape FastTrack Server Home Page
+allinurl:".nsconfig" -sample -howto -tutorial
+ext:php | intitle:phpinfo "published by the PHP Group"
+ext:svc inurl:wsdl
+filetype:asmx inurl:(_vti_bin|api|webservice)
+filetype:axd inurl:/elmah.axd
+fitweb-wwws * server at intitle:index.of
+i_index.shtml Ready
+intext:" - 2019 Cott Systems, Inc."
+intext:"404 Object Not Found" Microsoft-IIS/5.0
+intext:"Brought to you by eVetSites"
+intext:"Healthy" + "Product model" + " Client IP" + "Ethernet"
+intext:"Powered by (Quantum | Quantum CMS | CMS)
+intext:"Powered by Abyss Web Server"
+intext:"Powered by GetSimple" -site:get-simple.info
+intext:"Powered by Nesta"
+intext:"Powered by Sentora" -github.com
+intext:"Powered by Typesetter"
+intext:"Powered by phpSQLiteCMS" | intitle:"phpSQLiteCMS - A simple & lightweight CMS"
+intext:"SonarQube" + "by SonarSource SA." + "LGPL v3"
+intext:"Target Multicast Group" "beacon"
+intext:"This is the default welcome page used to test the correct operation of the Apache2 server"
+intext:"Welcome to CodeIgniter!"
+intext:"index of /" "Index of" access_log
+intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"
+intitle: "Welcome to nginx!" + "Thank you for using nginx."
+intitle:"300 multiple choices"
+intitle:"Accueil WAMPSERVER" intext:"Configuration Serveur"
+intitle:"Apache HTTP Server" intitle:"documentation"
+intitle:"Apache Status" "Apache Server Status for"
+intitle:"Apache Status" | intext:"Apache Server Status"
+intitle:"Apache2 Debian Default Page: It works"
+intitle:"Apache2 Ubuntu Default Page: It works"
+intitle:"Axis Happiness Page" "Examining webapp configuration"
+intitle:"BadBlue: the file-sharing web server anyone can use"
+intitle:"Current Network Status" "Nagios"
+intitle:"Directory Listing, Index of /*/"
+intitle:"Document title goes here" intitle:"used by web search tools" " example of a simple Home Page"
+intitle:"Domain Default page" "Parallels IP Holdings GmbH"
+intitle:"GlassFish Server - Server Running"
+intitle:"HFS" "Server Uptime" "Server time"
+intitle:"IIS Windows Server" -inurl:"IIS Windows Server"
+intitle:"IPC@CHIP Infopage"
+intitle:"Icecast Streaming Media Server"
+intitle:"Index of *" mode links bytes last-changed name
+intitle:"Index of /" "Proudly Served by Surftown at"
+intitle:"Index of" "Apache/2.4.7 (Ubuntu) Server"
+intitle:"Index of" site:.gov intext:"Server at"
+intitle:"Lists Web Service"
+intitle:"Lotus Domino Go Webserver:" "Tuning your webserver" -site:ibm.com
+intitle:"Microsoft Internet Information Services 8" -IIS
+intitle:"Miniweb Start Page" | "/CSS/Miniweb.css"
+intitle:"Monsta ftp" intext:"Lock session to IP"
+intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
+intitle:"Object not found" netware "apache 1.."
+intitle:"Open WebMail" "Open WebMail version (2.20|2.21|2.30) "
+intitle:"Page rev */*/*" inurl:"admin
+intitle:"Resin Default Home Page"
+intitle:"SOGo" site:webmail.*
+intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
+intitle:"Server Backup Manager SE"
+intitle:"Shoutcast Administrator"
+intitle:"Shoutcast server" inurl:"/index.html" "SHOUTcast Server"
+intitle:"Success!" intext:"Your new web server is ready to use."
+intitle:"Sucuri WebSite Firewall - Access Denied"
+intitle:"Test Page for Apache"
+intitle:"Test Page for Apache" "It Worked!"
+intitle:"Test Page for Apache" "It Worked!" "on this web"
+intitle:"Test Page for the Apache HTTP Server on Fedora Core" intext:"Fedora Core Test Page"
+intitle:"Test Page for the HTTP Server on Fedora"
+intitle:"WAMPSERVER homepage" "Server Configuration" "Apache Version"
+intitle:"WATASHI SERVICE"
+intitle:"Web Server's Default Page" intext:"hosting using Plesk" -www
+intitle:"Welcome To Xitami" -site:xitami.com
+intitle:"Welcome To Your WebSTAR Home Page"
+intitle:"Welcome to 602LAN SUITE *"
+intitle:"Welcome to IIS 4.0"
+intitle:"Welcome to JBoss"
+intitle:"Welcome to OpenResty!"
+intitle:"Welcome to WildFly" intext:"Administration Console"
+intitle:"Welcome to Windows 2000 Internet Services"
+intitle:"Welcome to Windows Small Business Server 2003"
+intitle:"Welcome to Your New Home Page!" "by the Debian release"
+intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!" intext:"Thank you for"
+intitle:"Welcome to the Advanced Extranet Server, ADVX!"
+intitle:"Welcome" intext:"LiteSpeed Technologies, Inc. All Rights Reserved."
+intitle:"apache tomcat/" "Apache Tomcat examples"
+intitle:"apache tomcat/" + "Find additional important configuration information in:"
+intitle:"error 404" "From RFC 2068 "
+intitle:"index of" "/homedir/etc/"
+intitle:"index of" "Served by Sun-ONE"
+intitle:"index of" "debug.log" OR "debug-log"
+intitle:"index of" "docker.yml"
+intitle:"index of" "powered by apache " "port 80"
+intitle:"index of" "server at"
+intitle:"index of" AND inurl:magento AND inurl:/dev
+intitle:"index of" site:.gov.in
+intitle:"miniProxy"
+intitle:"nPerfServer"
+intitle:"web server login" intext:"site ip"
+intitle:"welcome to mono xsp"
+intitle:AnswerBook2 inurl:ab2/ (inurl:8888 | inurl:8889)
+intitle:HTTP Server Test Page powered by CentOS
+intitle:Snap.Server inurl:Func=
+intitle:Snoop Servlet
+intitle:Test Page for the Nginx HTTP Server on Fedora
+intitle:livezilla "Server Time"
+inurl *:8080/login.php
+inurl: /ftp intitle:"office"
+inurl:"/app/kibana#"
+inurl:"/domcfg.nsf" " Web Server Configuration"
+inurl:"/phpmyadmin/user_password.php
+inurl:"/web-console/" intitle:"Administration Console"
+inurl:":8088/cluster/apps"
+inurl:"WebPortal?bankid"
+inurl:"id=*" & intext:"warning mysql_fetch_array()"
+inurl:"server-status" "Server Version: Apache/" "Server Built: " "Server uptime:" "Total accesses" "CPU Usage:"
+inurl:"web/database/selector"
+inurl:/Portal0000.htm
+inurl:/_catalogs
+inurl:/_hcms/
+inurl:/config/device/wcd
+inurl:/iisstart.htm intitle:"IIS7"
+inurl:/javax.faces.resource/
+inurl:/php/info.php
+inurl:/phpPgAdmin/browser.php
+inurl:/phpmyadmin/changelog.php -github -gitlab
+inurl:/pub/ inurl:_ri_
+inurl:/server-status + "Server MPM:"
+inurl:/uploads/affwp-debug.log
+inurl:/xprober ext:php
+inurl:2506/jana-admin
+inurl:?XDEBUG_SESSION_START=phpstorm
+inurl:CFIDE/adminapi
+inurl:OrganizationChart.cc
+inurl:_vti_bin/Authentication.asmx
+inurl:composer.json codeigniter -site:github.com
+inurl:domcfg.nsf
+inurl:jsmol.php
+inurl:nnls_brand.html OR inurl:nnls_nav.html
+inurl:oraweb -site:oraweb.org
+inurl:phpinfo.php intext:build 2600
+inurl:phpmyadmin/themes intext:"pmahomme"
+inurl:phpsysinfo/index.php?disp=dynamic
+inurl:readme.md intext:"Laravel"
+inurl:readme.rst intext:"CodeIgniter"
+inurl:rvsindex.php & /rvsindex.php?/user/login
+inurl:tech-support inurl:show Cisco
+inurl:tests/mocks intext:autoloader
+inurl:user_guide intext:"CodeIgniter User Guide"
+inurl:wl.exe inurl:?SS1= intext:"Operating system:" -edu -gov -mil
+sEDWebserver * server +at intitle:index.of
+site:*/*.asp
+site:*/server-status intext:"Apache server status for"
+site:ftp.*.com "Web File Manager"
+site:vps-*.vps.ovh.net
+yaws.*.server.at
