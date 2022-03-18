@@ -1,8 +1,14 @@
-site:http://repl.it intext:company
-site:http://zoom.us inurl:company
-site:http://atlassian.net inurl:company
-site:http://s3.amazonaws.com inurl:company
-site:http://pastebin.com inurl:company
-site:http://scribd.com intext:company.com
-site:http://github.com intext:company.com
 inurl:amazonaws.com inurl:company
+site:http://atlassian.net inurl:company
+site:http://github.com intext:company.com
+site:http://pastebin.com inurl:company
+site:http://repl.it intext:company
+site:http://s3.amazonaws.com inurl:company
+site:http://scribd.com intext:company.com
+site:http://zoom.us inurl:company
+site:https://docs.google.com/document/d/ password intext:company.com
+site:https://docs.google.com/forms responses intext:company.com
+site:https://docs.google.com/forms viewanalytics intext:company.com
+site:https://docs.google.com/spreadsheets edit intext:company.com
+site:https://docs.google.com/spreadsheets responses intext:company.com
+site:https://docs.google.com/spreadsheets/d/ password intext:company.com
