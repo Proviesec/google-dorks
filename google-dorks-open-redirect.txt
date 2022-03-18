@@ -35,3 +35,7 @@ inurl:returnTo
 inurl:return_to
 inurl:return_path
 inurl:path
+.php?redirect="
+/all.php?redirect=
+gallery.php?redirect=
+include.php?redirect=
