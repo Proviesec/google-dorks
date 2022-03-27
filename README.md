@@ -102,8 +102,8 @@ site:*.com
 - [x] phpmyadmin google dorks
 - [x] phpinfo google dorks
 - [x] log file google dorks
-- [ ] best google dorks reports
-- [ ] finding aws secrets with google dorks
+- [ ] best google dorks reports 
+- [x] finding aws secrets with google dorks
 - [ ] js secrets with google dorks
 - [ ] CMS google dorks
   - [x] Wordpress
