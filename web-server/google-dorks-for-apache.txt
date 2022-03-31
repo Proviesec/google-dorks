@@ -1,0 +1,11 @@
+filetype:log intext:org.apache.hadoop.hdfs
+intext:"This is Apache Hadoop release" "Local Logs"
+intext:Apache/2.2.29 (Unix) mod_ssl/2.2.29 | intitle:"Index of /"
+intitle:"Apache HTTP Server" intitle:"documentation"
+intitle:"Apache Status" "Apache Server Status for"
+intitle:"Apache Status" | intext:"Apache Server Status"
+intitle:"Apache Tomcat" "Error Report"
+intitle:"Apache2 Debian Default Page: It works"
+intitle:"Apache2 Ubuntu Default Page: It works"
+intitle:"Apache2 Ubuntu Default Page: It works"    
+intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
