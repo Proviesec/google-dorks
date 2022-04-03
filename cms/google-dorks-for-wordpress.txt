@@ -71,3 +71,4 @@ inurl:wp-mail.php + "There doesn't seem to be any new mail."
 inurl:wp-mail.php + “There doesn’t seem to be any new mail.”
 inurl:wp/wp-login.php
 inurl:/wp/ + "Login"
+inurl:/wp-content/plugins/video-synchro-pdf
