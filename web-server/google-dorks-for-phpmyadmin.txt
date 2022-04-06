@@ -34,3 +34,5 @@ phpmyadmin/
 phppgadmin/
 site:*/phpMyAdmin/robots.txt
 you really should fix this security hole by setting a password for user '.root'. inurl:/phpmyadmin intitle:localhost
+" phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+" phpMyAdmin MySQL-Dump" filetype:txt
