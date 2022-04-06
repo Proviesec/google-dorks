@@ -10,6 +10,7 @@ filetype:sql intext:wp_users phpmyadmin
 intext:"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
 intext:"phpMyAdmin MySQL-Dump" filetype:txt
 intext:"phpMyAdmin" "running on" inurl:"main.php"
+"Index of" inurl:phpmyadmin
 intitle:"Index of" phpmyadmin
 intitle:"index of /phpmyadmin" modified
 intitle:phpMyAdmin
