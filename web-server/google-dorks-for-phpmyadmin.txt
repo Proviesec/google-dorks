@@ -1,0 +1,36 @@
+"Welcome to phpMyAdmin" " Create new database"
+"Welcome to phpMyAdmin" + "Username:" + "Password:" + "Language:" + "Afrikaans"
+"Welcome to phpMyAdmin" AND " Create new database"
+"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+"phpMyAdmin MySQL-Dump" filetype:txt
+"phpMyAdmin" "running on" inurl:"main.php"
+ext:sql intext:"-- phpMyAdmin SQL Dump" -site:github.*
+filetype:sql "phpmyAdmin SQL Dump" (pass|password|passwd|pwd)
+filetype:sql intext:wp_users phpmyadmin
+intext:"phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
+intext:"phpMyAdmin MySQL-Dump" filetype:txt
+intext:"phpMyAdmin" "running on" inurl:"main.php"
+intitle:"Index of" phpmyadmin
+intitle:"index of /phpmyadmin" modified
+intitle:phpMyAdmin
+intitle:phpMyAdmin "Welcome to phpMyAdmin *" "running on as root@"
+intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
+inurl:"/phpmyadmin/user_password.php
+inurl:"/phpmyadmin/user_password.php" -inurl:git
+inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"
+inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
+inurl:/phpmyadmin/changelog.php -github -gitlab
+inurl:/phpmyadmin/index.php?db=
+inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
+inurl:\"/phpmyadmin/user_password.php
+inurl:main.php Welcome to phpMyAdmin
+inurl:main.php phpMyAdmin
+inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")
+inurl:phpmyadmin/themes intext:"pmahomme"
+phpMyAdmin SQL Dump
+phpMyAdmin dumps
+phpldapadmin/
+phpmyadmin/
+phppgadmin/
+site:*/phpMyAdmin/robots.txt
+you really should fix this security hole by setting a password for user '.root'. inurl:/phpmyadmin intitle:localhost
