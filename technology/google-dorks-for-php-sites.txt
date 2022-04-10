@@ -1,0 +1,6 @@
+product.php?id=
+viewshowdetail.php?id=
+clubpage.php?id=
+memberInfo.php?id=
+tradeCategory.php?id=
+transcript.php?id=
