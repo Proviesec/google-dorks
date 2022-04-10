@@ -125,4 +125,29 @@ site:*.com
 
 ![image](https://user-images.githubusercontent.com/6010786/152770177-537fbfa2-235e-4951-a885-12c6a90c40a5.png)
 
+# Preventing GOOGLE DORKS
 
+Encoding/encrypting sensitive data such as usernames, passwords and so forth.
+Run inquiries against your own site to check whether you can locate any sensitive data. On the off chance that you discover sensitive information, you can remove it from search results by utilizing Google Search Console.
+Protect sensitive content by utilizing a robots.txt document situated in your root-level site catalog. 
+Utilizing robots.txt helps prevent Google from indexing our site, but it can also show an attacker where sensitive data might be located.
+User-agent: * 
+Disallow: / 
+
+You can also block specific directories to be excepted from web crawling. 
+If you have the /phpinfo site and you need to protect it, just place this code inside:
+
+User-agent: *   
+Disallow: /phpinfo/ 
+
+
+Restrict access to specific files:
+
+User-agent: *   
+Disallow: /member/info.html 
+
+
+Restrict access to dynamic URLs that contain ? symbol:
+
+User-agent: *   
+Disallow: /*?  
