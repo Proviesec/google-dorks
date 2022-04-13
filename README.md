@@ -109,10 +109,10 @@ site:*.com
   - [x] Wordpress
   - [x] Typo3
   - [ ] Magento
-  - [ ] Joomla
+  - [x] Joomla
   - [ ] Drupal
   - [ ] Shopify
-- [ ] Admin google dorks
+- [x] Admin google dorks
 
 # Links
 
