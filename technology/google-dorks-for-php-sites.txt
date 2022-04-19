@@ -6,3 +6,4 @@ tradeCategory.php?id=
 transcript.php?id=
 index.php?id=
 search.php?id=
+search.php
