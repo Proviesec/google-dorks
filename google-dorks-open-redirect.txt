@@ -5,7 +5,7 @@ inurl:next inurl:&
 inurl:http 
 inurl:=www
 inurl:.com inurl:&
-inurl:
+inurl:site
 inurl:rurl
 inurl:next inurl:&
 inurl:link
