@@ -20,6 +20,7 @@
 "Powered by BOINC"
 "Powered by phpBB" inurl:"index.php?s" OR inurl:"index.php?style"
 "Powered by vShare"
+"Powered by"
 "Proudly created with Wix.com"
 "RDServer Product information" | inurl:"/rdagent.jsp"
 "Red Hat Secure/2.0"
