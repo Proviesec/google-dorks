@@ -14,3 +14,4 @@ inurl:index.php/using-joomla/extensions/plugins?format=feed&type=rss
 inurl:index.php?format=feed&type=atom
 inurl:index.php?format=feed&type=rss
 inurl:using-joomla/extensions/templates/beez5/home-page-beez5
+inurl:index.php/using/joomla site:com
