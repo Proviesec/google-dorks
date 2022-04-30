@@ -4,6 +4,27 @@ intext:Joomla 1.6 inurl:index.php/login
 intext:Joomla 1.6 inurl:index.php/registration
 intext:Joomla 1.7 inurl:index.php/login
 intext:Joomla 1.7 inurl:index.php/registration
+intitle:"Joomla – Web Installer"
+intitle:"Index of /" "joomla_update.php"
+"Consola de Joomla! Debug" inurl:index.php
+"Joomla! Administration Login" inurl:"/index.php"
+"powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+inurl:~~joomla3.txt filetype:txt
+intext:"~~Joomla1.txt" title:"Index of /"
+inurl:"index.php?option=com_bookjoomlas"
+index2.php?option=com_joomlaboard
+com_ijoomla_rss
+inurl:index.php?option=com_joomlaconnect_be
+inurl:"com_ijoomla_archive"
+inurl:com_joomradio
+inurl:"com_joomlaradiov5"
+"com_joomlaflashfun"
+"com_joom12pic"
+inurl:index.php?option=com_joomradio
+inurl:com_joomladate
+"index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
+Joomla Component com_eportfolio Upload Vulnerability
+intitle:"Joomla - Web Installer"
 inurl:component/content/
 inurl:component/content/?view=featured&format=feed&type=atom
 inurl:index.php/plugins site:
