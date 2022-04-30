@@ -1,30 +1,27 @@
+"Consola de Joomla! Debug" inurl:index.php
+"Joomla! Administration Login" inurl:"/index.php"
+"com_joom12pic"
+"com_joomlaflashfun"
+"index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
+"powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
+Joomla Component com_eportfolio Upload Vulnerability
+com_ijoomla_rss
+index2.php?option=com_joomlaboard
 intext:"joomla! 1.6 - Open Source Content Management"
 intext:"joomla! 1.7 - Open Source Content Management"
+intext:"~~Joomla1.txt" title:"Index of /"
 intext:Joomla 1.6 inurl:index.php/login
 intext:Joomla 1.6 inurl:index.php/registration
 intext:Joomla 1.7 inurl:index.php/login
 intext:Joomla 1.7 inurl:index.php/registration
-intitle:"Joomla – Web Installer"
 intitle:"Index of /" "joomla_update.php"
-"Consola de Joomla! Debug" inurl:index.php
-"Joomla! Administration Login" inurl:"/index.php"
-"powered by joomla 3.2" OR "powered by joomla 3.3" OR "powered by joomla 3.4"
-inurl:~~joomla3.txt filetype:txt
-intext:"~~Joomla1.txt" title:"Index of /"
-inurl:"index.php?option=com_bookjoomlas"
-index2.php?option=com_joomlaboard
-com_ijoomla_rss
-inurl:index.php?option=com_joomlaconnect_be
-inurl:"com_ijoomla_archive"
-inurl:com_joomradio
-inurl:"com_joomlaradiov5"
-"com_joomlaflashfun"
-"com_joom12pic"
-inurl:index.php?option=com_joomradio
-inurl:com_joomladate
-"index.php?option=com_news_portal" or "Powered by iJoomla News Portal"
-Joomla Component com_eportfolio Upload Vulnerability
 intitle:"Joomla - Web Installer"
+intitle:"Joomla – Web Installer"
+inurl:"com_ijoomla_archive"
+inurl:"com_joomlaradiov5"
+inurl:"index.php?option=com_bookjoomlas"
+inurl:com_joomladate
+inurl:com_joomradio
 inurl:component/content/
 inurl:component/content/?view=featured&format=feed&type=atom
 inurl:index.php/plugins site:
@@ -32,7 +29,10 @@ inurl:index.php/rss=feed site:
 inurl:index.php/using-joomla/extensions/modules/ intext:joomla! 1.7
 inurl:index.php/using-joomla/extensions/modules/19-sample-data-articles/joomla/50-upgraders
 inurl:index.php/using-joomla/extensions/plugins?format=feed&type=rss
+inurl:index.php/using/joomla site:com
 inurl:index.php?format=feed&type=atom
 inurl:index.php?format=feed&type=rss
+inurl:index.php?option=com_joomlaconnect_be
+inurl:index.php?option=com_joomradio
 inurl:using-joomla/extensions/templates/beez5/home-page-beez5
-inurl:index.php/using/joomla site:com
+inurl:~~joomla3.txt filetype:txt
