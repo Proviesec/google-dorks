@@ -1,3 +1,4 @@
+"Log in" "Magento is a trademark of Magento Inc."
 php jembut.php "/account/create/"
 php jembut.php "/account/forgotpassword"
 php jembut.php "/account/login/"
