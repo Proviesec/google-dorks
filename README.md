@@ -125,7 +125,7 @@ site:*.com
 
 ![image](https://user-images.githubusercontent.com/6010786/152770177-537fbfa2-235e-4951-a885-12c6a90c40a5.png)
 
-# Preventing GOOGLE DORKS
+## Preventing GOOGLE DORKS
 
 Encoding/encrypting sensitive data such as usernames, passwords and so forth.
 Run inquiries against your own site to check whether you can locate any sensitive data. On the off chance that you discover sensitive information, you can remove it from search results by utilizing Google Search Console.
