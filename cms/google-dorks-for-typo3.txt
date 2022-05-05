@@ -3,3 +3,4 @@ inurl:"typo3/index.php?u=" -demo
 inurl:index.php?id= "TYPO3 CMS"
 typo3/
 inurl:typo3conf/localconf.php
+intitle:"TYPO3 CMS"
