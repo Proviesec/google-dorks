@@ -68,7 +68,7 @@ This operator combines search terms
 This will order results by the number of occurrence of the keyword.
 
 ```
--site:twitter.com +site:twitter.*
+site:twitter.com +site:twitter.*
 ```
 
 #### Exclude results
