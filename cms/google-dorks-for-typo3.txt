@@ -7,3 +7,4 @@ intitle:"TYPO3 CMS"
 intitle:"Installing TYPO3 CMS" 
 inurl:/typo3/typo3conf 
 inurl:'/typo3conf/ext/yag_themepack_jquery/'
+inurl:typo3conf
