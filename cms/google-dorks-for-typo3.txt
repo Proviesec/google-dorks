@@ -5,3 +5,4 @@ inurl:"typo3"
 inurl:typo3conf/localconf.php
 intitle:"TYPO3 CMS"
 intitle:"Installing TYPO3 CMS" 
+inurl:/typo3/typo3conf 
