@@ -7,4 +7,4 @@ transcript.php?id=
 index.php?id=
 search.php?id=
 search.php
-Index.php
+index.php
