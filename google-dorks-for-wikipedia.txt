@@ -14,7 +14,14 @@ allinurl:".edu/wiki/index.php"
 allinurl:"http://wiki."
 allinurl:"http://mediawiki."
 allinurl:"http://wikka."
-Inurl:wiki
+Keyword inurl:wiki
+inurl:MediaWiki_talk
+keyword "wiki" (site:.edu)
+site:.edu inurl:wiki
+site:.edu inurl:MediaWiki_talk
+site:.edu "Log in / create account"
+site:.edu wiki
+inurl:wiki
 "Log in / createaccount"
 "isa registered trademark of the Wikimedia Foundation, Inc.,"
 "wiki inurl:.edu"
