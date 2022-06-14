@@ -4,4 +4,12 @@ This page was last modified on "wiki"
 "isa registered trademark of the Wikimedia Foundation, Inc.,"
 "wiki inurl:.edu"
 wiki inurl:.edu
-inurl:/wiki/index.php/Viagra
+"Toolbox""This page was last modified
+inurl:"wiki/index.php?title="
+"Login required to edit"
+"wiki/index.php?title=Special:Userlogin&amp;returnto"
+inurl:wiki/index.php?title=Special:Userlogin&amp;returnto
+"Main Page""discussion""edit"
+"This page has beenaccessed""Privacy policy"
+"This page has beenaccessed""Privacy policy""wiki"
+"Wiki:About"
