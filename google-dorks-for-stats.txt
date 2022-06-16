@@ -1,1 +1,2 @@
 inurl:/awstats
+inurl:/awstats.**?year=;1
