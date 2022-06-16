@@ -1,2 +1,4 @@
 inurl:/awstats
 inurl:/awstats.**?year=;1
+inurl:/webalizer
+inurl:/stats/usage
