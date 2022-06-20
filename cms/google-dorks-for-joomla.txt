@@ -1,3 +1,4 @@
+
 "Consola de Joomla! Debug" inurl:index.php
 "Joomla! Administration Login" inurl:"/index.php"
 "com_joom12pic"
