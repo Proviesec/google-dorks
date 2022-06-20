@@ -1,10 +1,10 @@
-inurl:"/typo3conf/ext/pw_highslide_gallery/"
-inurl:"typo3/index.php?u=" -demo
-inurl:index.php?id= "TYPO3 CMS"
-inurl:"typo3"
-inurl:typo3conf/localconf.php
-intitle:"TYPO3 CMS"
 intitle:"Installing TYPO3 CMS" 
-inurl:/typo3/typo3conf 
+intitle:"TYPO3 CMS"
+inurl:"/typo3conf/ext/pw_highslide_gallery/"
+inurl:"typo3"
+inurl:"typo3/index.php?u=" -demo
 inurl:'/typo3conf/ext/yag_themepack_jquery/'
+inurl:/typo3/typo3conf 
+inurl:index.php?id= "TYPO3 CMS"
 inurl:typo3conf
+inurl:typo3conf/localconf.php
