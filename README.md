@@ -109,7 +109,7 @@ site:*.com
 - [ ] CMS google dorks
   - [x] Wordpress
   - [x] Typo3
-  - [ ] Magento
+  - [x] Magento
   - [x] Joomla
   - [ ] Drupal
   - [ ] Shopify
