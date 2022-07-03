@@ -2,6 +2,7 @@ inurl:url inurl:&
 inurl:redirect inurl:&
 inurl:continue inurl:&
 inurl:next inurl:&
+inurl:target
 inurl:http 
 inurl:=www
 inurl:.com inurl:&
@@ -23,6 +24,7 @@ inurl:returnTo inurl:&
 inurl:return_to inurl:&
 inurl:return_path inurl:&
 inurl:path inurl:&
+inurl:target inurl:&
 inurl:dest
 inurl:destination
 inurl:redir
