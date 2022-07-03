@@ -12,3 +12,5 @@ inurl:search
 inurl:& inurl:query
 inurl:& inurl:suche
 inurl:& inurl:input
+inurl:& inurl:next
+inurl:& inurl:target
