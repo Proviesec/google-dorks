@@ -24,7 +24,6 @@ inurl:returnTo inurl:&
 inurl:return_to inurl:&
 inurl:return_path inurl:&
 inurl:path inurl:&
-inurl:target inurl:&
 inurl:dest
 inurl:destination
 inurl:redir
