@@ -1,0 +1,10 @@
+inurl:url
+inurl:return
+inurl:continue
+next
+returnto
+redirect
+/cgi-bin/redirect.cgi
+/out/
+view
+/login?to=
