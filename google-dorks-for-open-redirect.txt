@@ -1,10 +1,10 @@
 inurl:url
 inurl:return
 inurl:continue
-next
-returnto
-redirect
-/cgi-bin/redirect.cgi
-/out/
-view
-/login?to=
+inurl:next
+inurl:returnto
+inurl:redirect
+inurl:/cgi-bin/redirect.cgi
+inurl:/out/
+inurl:view
+inurl:/login?to=
