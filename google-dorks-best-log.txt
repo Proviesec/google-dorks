@@ -6,5 +6,7 @@ filetype:log intext:"ConnectionManager2"
 filetype:log inurl:"password.log"
 filetype:log inurl:password.log
 intitle:index.of cleanup.log
+intitle:index.of filetype:log
 filetype:log inurl:nginx
 filetype:log inurl:database
+filetype:log inurl:bin
