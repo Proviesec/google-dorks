@@ -10,3 +10,4 @@ intitle:index.of filetype:log
 filetype:log inurl:nginx
 filetype:log inurl:database
 filetype:log inurl:bin
+filetype:syslog
