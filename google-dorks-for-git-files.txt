@@ -1,4 +1,5 @@
 filename:.git-credentials
+filename:gitconfig
 intext:"index of /.git" "parent directory"
 filetype:git -github.com inurl:"/.git"
 (intext:"index of /.git") ("parent directory")
