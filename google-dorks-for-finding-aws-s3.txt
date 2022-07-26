@@ -1,3 +1,5 @@
 site:http://s3.amazonaws.com intitle:index.of.bucket
 site:http://amazonaws.com inurl:".s3.amazonaws.com/"
 site:.s3.amazonaws.com "Company"
+intitle:index.of.bucket
+site:http://s3.amazonaws.com intitle:Bucket loading
