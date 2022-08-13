@@ -117,6 +117,7 @@ site:*.com
   - [ ] Drupal
   - [ ] Shopify
 - [x] Admin google dorks
+- [ ] Monitoring pages - google dorks
 
 # Links
 
