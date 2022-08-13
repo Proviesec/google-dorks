@@ -7,3 +7,4 @@ inurl:/xmlrpc.php;1
 inurl:/awstats.**?year=;1
 inurl:/webalizer
 inurl:/stats/usage
+inurl:/awstats -github
