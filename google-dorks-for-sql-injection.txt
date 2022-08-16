@@ -38,3 +38,5 @@ type.php?iType=
 updatebasket.php?bookid=
 updates.php?ID=
 view.php?cid=
+?search=
+?page=
