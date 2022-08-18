@@ -106,6 +106,7 @@ site:*.com
 - [x] phpinfo google dorks
 - [x] log file google dorks
 - [ ] google dorks for excel files
+- [ ] Google Dorks for presentations 
 - [ ] best google dorks reports 
 - [x] finding aws secrets with google dorks
 - [ ] js secrets with google dorks
