@@ -8,3 +8,4 @@ inurl:/awstats.**?year=;1
 inurl:/webalizer
 inurl:/stats/usage
 inurl:/awstats -github
+inurl:system-day.html
