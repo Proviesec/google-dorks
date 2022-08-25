@@ -9,3 +9,4 @@ inurl:/webalizer
 inurl:/stats/usage
 inurl:/awstats -github
 inurl:system-day.html
+inurl:disk-day.html
