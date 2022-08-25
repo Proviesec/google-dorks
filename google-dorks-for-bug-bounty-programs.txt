@@ -1,5 +1,6 @@
 "If you believe you've found a security vulnerability"
 "If you find a security issue"  "reward"
+"Report a Vulnerability"
 "cms" bug bounty
 "powered by bugcrowd" -site:bugcrowd.com
 "powered by synack"
