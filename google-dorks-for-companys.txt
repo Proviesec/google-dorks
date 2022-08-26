@@ -1,6 +1,7 @@
 inurl:amazonaws.com inurl:company
 site:http://atlassian.net inurl:company
 site:http://github.com intext:company.com
+site:http://gitlab.com intext:company.com
 site:http://pastebin.com inurl:company
 site:http://repl.it intext:company
 site:http://s3.amazonaws.com inurl:company
