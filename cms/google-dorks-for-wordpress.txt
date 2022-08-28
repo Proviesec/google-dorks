@@ -73,3 +73,4 @@ site:*/wp-includes/ inurl:/wp-includes/
 site:*/wp-includes/Requests/php_errorlog
 site:*/wp-login?redirect_to= intitle:"login"
 site:*/wp-settings.php
+inurl:wp-content/ inurl:backups
