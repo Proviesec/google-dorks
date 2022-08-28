@@ -1,6 +1,7 @@
 "is proudly powered by WordPress"
 "plugins/wp-db-backup/wp-db-backup.php"
 filetype:sql inurl:wp-content/backup-*
+filetype:sql inurl:wp-content/*
 filetype:txt inurl:wp-config.txt
 intext:"the WordPress" inurl:wp-config ext:txt
 intitle:"Index of" wp-admin
