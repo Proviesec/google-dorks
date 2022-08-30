@@ -4,3 +4,5 @@ inurl:setup.sql
 inurl:mysql.sql
 inurl:users.sql
 inurl:backup.sql
+inurl:db filetype:sql
+create table  filetype:sql
