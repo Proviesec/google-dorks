@@ -1,3 +1,4 @@
 inurl:backup
 inurl:backup.zip
 inurl:backup.sql
+filetype:bak
