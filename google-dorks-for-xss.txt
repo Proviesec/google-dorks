@@ -4,6 +4,8 @@ inurl:& inurl:survey
 inurl:& inurl:form
 inurl:& inurl:title
 inurl:& inurl:search
+inurl:& inurl:city
+inurl:& inurl:date
 inurl:& inurl:topic
 inurl:& inurl:search inurl:q
 inurl:& inurl:search inurl:s
