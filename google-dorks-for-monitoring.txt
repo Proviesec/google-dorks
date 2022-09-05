@@ -1,0 +1,2 @@
+inurl:awstats
+inurl:monitoring
