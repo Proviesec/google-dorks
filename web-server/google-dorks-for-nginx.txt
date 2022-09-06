@@ -1,4 +1,5 @@
 intitle:"index of" "nginx.log"
+intitle:"index of" "nginx"
 intitle:Test Page for the Nginx HTTP Server on Fedora
 intitle:\"Welcome to nginx!\" intext:\"Welcome to nginx on Debian!\" intext:\"Thank you for\"
 inurl:nginx_status
