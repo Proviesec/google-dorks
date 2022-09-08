@@ -4,3 +4,6 @@ filetype:conf
 configuration filetype:txt
 inurl:config.inc
 password host inurl:config filetype:txt
+filetype:conf
+inurl:conf.xml
+inurl:configuration.xml
