@@ -8,3 +8,4 @@ inurl:config password host
 filetype:conf
 inurl:conf.xml
 inurl:configuration.xml
+inurl:config secret host
