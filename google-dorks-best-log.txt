@@ -12,3 +12,5 @@ filetype:log inurl:nginx
 filetype:log inurl:database
 filetype:log inurl:bin
 filetype:syslog
+allintext:username filetype:log
+
