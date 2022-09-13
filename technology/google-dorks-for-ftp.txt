@@ -1,2 +1,3 @@
 intitle:"index of" inurl:ftp
+filetype:url +inurl:"ftp://" +inurl:";@"
 
