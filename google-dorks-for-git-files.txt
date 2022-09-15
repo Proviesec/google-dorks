@@ -7,3 +7,4 @@ inurl:ORIG_HEAD
 intitle:"index of" ".gitignore"
 ".git" intitle:"Index of"
 (intext:"index of /.git") ("parent directory")
+"Parent Directory" "Last modified" git
