@@ -8,3 +8,4 @@ index.php?id=
 search.php?id=
 search.php
 index.php
+filetyp:php
