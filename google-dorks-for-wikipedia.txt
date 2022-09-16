@@ -35,3 +35,4 @@ inurl:wiki/index.php?title=Special:Userlogin&amp;returnto
 "This page has beenaccessed""Privacy policy"
 "This page has beenaccessed""Privacy policy""wiki"
 "Wiki:About"
+"Parent Directory" "Last modified" wikipedia
