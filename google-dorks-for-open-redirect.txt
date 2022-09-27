@@ -10,3 +10,45 @@ inurl:/cgi-bin/redirect.cgi
 inurl:/out/
 inurl:view
 inurl:/login?to=
+inurl:url inurl:&
+inurl:redirect inurl:&
+inurl:continue inurl:&
+inurl:next inurl:&
+inurl:target
+inurl:http 
+inurl:=www
+inurl:.com inurl:&
+inurl:site
+inurl:rurl
+inurl:next inurl:&
+inurl:link
+inurl:go inurl:&
+inurl:target inurl:&
+inurl:dest inurl:&
+inurl:destination inurl:&
+inurl:redir inurl:&
+inurl:redirect_uri inurl:&
+inurl:redirect inurl:&
+inurl:view inurl:&
+inurl:image_url inurl:&
+inurl:return inurl:&
+inurl:returnTo inurl:&
+inurl:return_to inurl:&
+inurl:return_path inurl:&
+inurl:path inurl:&
+inurl:dest
+inurl:destination
+inurl:redir
+inurl:redirect_uri
+inurl:redirect 
+inurl:view 
+inurl:image_url 
+inurl:return
+inurl:returnTo
+inurl:return_to
+inurl:return_path
+inurl:path
+.php?redirect="
+all.php?redirect=
+gallery.php?redirect=
+include.php?redirect=
