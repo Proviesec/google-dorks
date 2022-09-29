@@ -1,4 +1,3 @@
-
 "About Mac OS Personal Web Sharing"
 "AnWeb/1.42h" intitle:index.of
 "Application Blocked!" "Google bot"
