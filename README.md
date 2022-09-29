@@ -119,6 +119,7 @@ site:*.com
   - [ ] Shopify
 - [x] Admin google dorks
 - [x] Monitoring pages - google dorks
+- [ ] Google Dorks - Github page
 
 # Links
 
