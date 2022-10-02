@@ -1,2 +1,2 @@
 intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
- 
+intitle:"Grafana - Home" inurl:/orgid
