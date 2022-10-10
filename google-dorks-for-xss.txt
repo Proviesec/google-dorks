@@ -20,3 +20,4 @@ inurl:search inurl:page
 inurl:search inurl:p
 inurl:query filetype:html inurl:page
 inurl:query filetype:html inurl:sort
+inurl:query filetype:php
