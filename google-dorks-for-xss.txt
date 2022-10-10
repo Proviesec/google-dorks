@@ -17,3 +17,4 @@ inurl:& inurl:input
 inurl:& inurl:next
 inurl:& inurl:target
 inurl:search inurl:page
+inurl:search inurl:p
