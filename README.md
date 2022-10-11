@@ -100,6 +100,7 @@ site:*.*.*.site.com
 site:*.com
 ```
 
+
 # Ideas
 - [x] Git google dorks
 - [x] phpmyadmin google dorks
