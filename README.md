@@ -14,6 +14,11 @@
 
 If you have any google dork, just create a PullRequest. 
 
+# My love google dork
+```
+intext:"index of" "parent directory"
+```
+
 ## Search filters
 
 | Filter          | Description                                        | Example                              |
