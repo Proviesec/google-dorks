@@ -160,7 +160,6 @@ Restrict access to specific files:
 User-agent: *   
 Disallow: /member/info.html 
 
-
 Restrict access to dynamic URLs that contain ? symbol:
 
 User-agent: *   
