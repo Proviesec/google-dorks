@@ -191,6 +191,7 @@ inurl:phpinfo.php intext:build 2600
 inurl:phpmyadmin/themes intext:"pmahomme"
 inurl:phpsysinfo/index.php?disp=dynamic
 inurl:readme.md intext:"Laravel"
+inurl:readme.md intext:"typo3"
 inurl:readme.rst intext:"CodeIgniter"
 inurl:rvsindex.php & /rvsindex.php?/user/login
 inurl:tech-support inurl:show Cisco
