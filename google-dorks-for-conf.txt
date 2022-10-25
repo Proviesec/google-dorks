@@ -9,3 +9,4 @@ filetype:conf
 inurl:conf.xml
 inurl:configuration.xml
 inurl:config secret host
+inurl:secret filetype:yaml
