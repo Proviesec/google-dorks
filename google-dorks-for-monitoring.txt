@@ -18,3 +18,4 @@ inurl:log
 inurl:livestats
 inurl:livemonitoring
 "Parent Directory" "Last modified" monitoring
+inurl:nagios/side.php 
