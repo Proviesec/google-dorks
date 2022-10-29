@@ -1,0 +1,25 @@
+site: target.com inurl: admin |  administrator |  adm |  login |  l0gin |  wp-login
+inurl:wp-login
+inurl:"/wp-login.php?action=lostpassword"
+inurl:& intext:admin intext:login
+site:password.*.* intitle:"login"
+site:portal.*.* intitle:"login"
+site:sftp.*.*/ intext:"login" intitle:"server login"
+site:user.*.* intitle:"login"
+"Joomla! Administration Login" inurl:"/index.php"
+intext:Joomla 1.6 inurl:index.php/login
+intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
+inurl:login "Welcome to Grafana"
+php jembut.php "/account/login/"
+php jembut.php "/customer/account/login/referer/"
+intext:"HostingAccelerator" intitle:"login" +"Username" -"news" -demo
+intext:"IMail Server Web Messaging" intitle:login
+inurl:/eftclient/account/login.htm
+inurl:/pro_users/login
+inurl:"servicedesk/customer/user/login"
+inurl:"/phpmyadmin/user_password.php
+inurl:"/?q=user/password/"
+"Login Pages":"site:target.com inurl:login | inurl:signin | intitle:Login | intitle: signin | inurl:auth"
+inurl:"/carbon/admin/login.jsp"
+inurl:webvpn.html "login" "Please enter your"
+inurl:/administrator/index.php?autologin=1
