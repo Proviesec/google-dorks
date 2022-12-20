@@ -1,5 +1,7 @@
 site: target.com inurl: admin |  administrator |  adm |  login |  l0gin |  wp-login
 inurl:wp-login
+inurl:login
+inurl:user-login
 inurl:"/wp-login.php?action=lostpassword"
 inurl:& intext:admin intext:login
 site:password.*.* intitle:"login"
