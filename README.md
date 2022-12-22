@@ -145,6 +145,9 @@ site:*.com
 - cxsecurity.com
 - vulnerability-lab.com 
 
+# Writeups
+
+https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf
 
 # Example 
 
