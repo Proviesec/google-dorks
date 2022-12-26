@@ -9183,6 +9183,8 @@ inurl:"lists/?p=subscribe" | inurl:"lists/index.php?p=subscribe"
 inurl:"login.php" "powered by WebChat"
 inurl:"login.php?action=recover"
 inurl:"login.php?referer=profile.php"
+inurl:login
+inurl:user-login
 inurl:"lvappl.htm"
 inurl:"mail" ext:mai
 inurl:"main.php?action=db"
