@@ -1,5 +1,9 @@
 inurl:backup
 inurl:backup.zip
+inurl:backup.rar
 inurl:backup.sql
+inurl:web.zip
+inurl:website.zip
 filetype:bak
 filetype:abk
+inurl:backup "Parent Directory"
