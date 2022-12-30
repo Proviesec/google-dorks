@@ -11,6 +11,8 @@ inurl:& inurl:search inurl:q
 inurl:& inurl:search inurl:s
 index.php? inurl:& 
 inurl:search
+inurl:suche
+inurl:page
 inurl:& inurl:query
 inurl:& inurl:suche
 inurl:& inurl:input
