@@ -13,8 +13,10 @@ Table of Contents
 ------------
 * [Introduction](#introduction)
 * [My love google dork](#my-love-google-dork)
-  * [Search filters](#search-filters)
-  * [Operators](#operators)
+* [Search filters](#search-filters)
+* [Operators](#operators)
+   * [Search Term](#search-term)
+   * [OR](#or)
 * [Ideas](#ideas)
 * [Links](#links)
 * [Example](#example)
