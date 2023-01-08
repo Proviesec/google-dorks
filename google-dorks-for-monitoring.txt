@@ -19,3 +19,7 @@ inurl:livestats
 inurl:livemonitoring
 "Parent Directory" "Last modified" monitoring
 inurl:nagios/side.php 
+inurl:kibana
+inurl:grafana
+inurl:cacti
+inurl:munin
