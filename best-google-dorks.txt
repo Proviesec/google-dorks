@@ -13,3 +13,4 @@ inurl:& intext:admin intext:login
 inurl:& intext:search
 inurl:config secret
 inurl:backup
+inurl:backup.zip
