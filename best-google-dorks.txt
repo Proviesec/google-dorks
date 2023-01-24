@@ -1,14 +1,15 @@
-intitle:"index of" 
-intext:"Index of /" +.htaccess
-inurl:backup
-filetype:log
+filename:config pass
+filename:config secret 
 filename:config.php dbpasswd
 filename:config.php pass
 filename:config.php password
-filename:config pass
-filename:config secret 
+filename:configuration
 filename:env
 filename:setting
-inurl:& intext:search
+filetype:log
+intext:"Index of /" +.htaccess
+intitle:"index of" 
 inurl:& intext:admin intext:login
-filename:configuration
+inurl:& intext:search
+inurl:config secret
+inurl:backup
