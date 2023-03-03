@@ -1,4 +1,5 @@
 inurl:url
+inurl:ret
 inurl:url inurl:&
 inurl:return
 inurl:return inurl:&
