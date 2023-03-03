@@ -1,3 +1,4 @@
+inurl:url OR inurl:continue OR inurl:returnto OR inurl:redirect OR inurl:return OR inurl:target OR inurl:site OR inurl:view  OR inurl:path
 inurl:url
 inurl:ret
 inurl:url inurl:&
