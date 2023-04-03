@@ -1,5 +1,6 @@
 This page was last modified on "wiki"
 "This page was last modified on"
+"This page has been accessed"
 "There is currently no text in this page, you can search for this page title in other pages or edit this page"
 allinurl:".edu/mediawiki/index.php"
 allinurl:".com/mediawiki/index.php"
