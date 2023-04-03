@@ -14,3 +14,4 @@ inurl:& intext:search
 inurl:config secret
 inurl:backup
 inurl:backup.zip
+inurl:quiz inurl:&
