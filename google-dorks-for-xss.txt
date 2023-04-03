@@ -1,6 +1,8 @@
 inurl:& inurl:test
 inurl:& inurl:quiz
 inurl:& inurl:survey
+inurl:& inurl:game
+inurl:& inurl:competition
 inurl:& inurl:form
 inurl:& inurl:title
 inurl:& inurl:search
