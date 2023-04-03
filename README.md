@@ -149,6 +149,7 @@ site:*.com
 
 # Writeups
 
+https://infosecwriteups.com/my-first-reflected-xss-bug-bounty-google-dork-xxx-92ac1180e0d0
 https://dewangpanchal98.medium.com/microsoft-bug-bounty-writeup-5ee4a7264dbf
 
 # Example 
