@@ -26,7 +26,7 @@ Table of Contents
 
 :star: Star us on GitHub — it motivates a lot! :star:
 
-If you have any google dork, just create a PullRequest. 
+If you have any google dork, just create a PullRequest or wrtie me on twitter.  [![Twitter](https://img.shields.io/twitter/follow/proviesec?label=Follow)](https://twitter.com/proviesec)
 
 # My love google dork
 ```
