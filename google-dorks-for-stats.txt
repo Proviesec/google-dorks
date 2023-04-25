@@ -10,5 +10,6 @@ inurl:/stats/usage
 inurl:/awstats -github
 inurl:system-day.html
 inurl:disk-day.html
+inurl:stats.html
 "Welcome to Grafana" intitle:Grafana
 inurl:/stats
