@@ -15,3 +15,5 @@ inurl:configuration.xml
 inurl:config secret host
 inurl:secret filetype:yaml
 inurl:conf filetype:xml
+inurl:Makefile.toml
+inurl:Makefile 
