@@ -8,3 +8,4 @@ inurl:/typo3/typo3conf
 inurl:index.php?id= "TYPO3 CMS"
 inurl:typo3conf
 inurl:typo3conf/localconf.php
+"TYPO3 CMS login"
