@@ -28,6 +28,9 @@ Table of Contents
 
 **If you have any google dork, just create a PullRequest or wrtie me on twitter.**  [![Twitter](https://img.shields.io/twitter/follow/proviesec?label=Follow)](https://twitter.com/proviesec) 
 
+**My medium article about Google Dorks** [How to use google dorks](https://medium.com/@proviesec/google-dork-the-best-one-and-how-do-you-find-bugs-with-it-689c69804b81) 
+
+
 # My love google dork
 ```
 intext:"index of" "parent directory"
