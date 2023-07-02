@@ -1,5 +1,6 @@
 intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
 intitle:"Grafana - Home" inurl:/orgid
+intitle:Grafana inurl:orgid
 inurl:login "Welcome to Grafana"
 "Welcome to Grafana" inurl:/orgid
 intitle:"Welcome to Grafana"
