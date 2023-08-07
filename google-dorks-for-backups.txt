@@ -3,6 +3,7 @@ inurl:backup.zip
 inurl:backup.rar
 inurl:backup.sql
 inurl:backup filetype:sql
+inurl:save filetype:sql
 inurl:web.zip
 inurl:website.zip
 filetype:bak
