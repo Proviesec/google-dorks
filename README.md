@@ -59,7 +59,6 @@ intext:"index of" "parent directory"
 | related      | List web pages that are "similar" to a given web page. | `related:www.github.com` |
 | cache      | Displays the version of the web page that Google has in its cache. | `cache:www.github.com` |
 
-
 ## Operators
 #### Search Term
 
