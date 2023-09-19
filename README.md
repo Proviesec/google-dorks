@@ -10,8 +10,6 @@
 <a href="https://patreon.com/proviesec"><img src="https://user-images.githubusercontent.com/6010786/178968010-4d47859d-ef52-4d0e-85eb-549654f9ad65.jpg" alt="Buy Me A Coffee" height="80"></a>
 Read this, my Medium Blog Space:👩‍💻<a href="https://proviesec.medium.com/"><b>Proviesec Security Medium Articles - read it</b></a>
 
-<a href="https://medium.com/@proviesec/membership"><b>Become a Proviesec Medium Member</b></a> 🥇
-
 Table of Contents
 ------------
 * [Introduction](#introduction)
