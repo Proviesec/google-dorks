@@ -18,3 +18,4 @@ inurl:secret filetype:yaml
 inurl:conf filetype:xml
 inurl:Makefile.toml
 inurl:Makefile 
+inurl:conf.yaml
