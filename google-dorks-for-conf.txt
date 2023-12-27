@@ -8,6 +8,7 @@ password host inurl:config filetype:txt
 inurl:config password host
 filetype:conf
 inurl:conf.xml
+inurl:conf.ini
 inurl:conf.js
 inurl:conf.json
 inurl:configuration.json
