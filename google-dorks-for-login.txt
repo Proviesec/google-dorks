@@ -25,3 +25,4 @@ inurl:"/?q=user/password/"
 inurl:"/carbon/admin/login.jsp"
 inurl:webvpn.html "login" "Please enter your"
 inurl:/administrator/index.php?autologin=1
+"login" "user" "password"
