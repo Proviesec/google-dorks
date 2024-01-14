@@ -9,3 +9,4 @@ inurl:backup filetype:sql
 create table  filetype:sql
 "-- MySQL dump" "Server version" "Table structure for table"
 inurl:/db/websql/
+filetype:sql
