@@ -16,3 +16,4 @@ inurl:backup
 inurl:backup.zip
 inurl:quiz inurl:&
 inurl:Makefile.toml
+hostname user password filetype:xml
