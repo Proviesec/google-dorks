@@ -145,6 +145,7 @@ intitle:"index of" AND inurl:magento AND inurl:/dev
 intitle:"index of" site:.gov.in
 intitle:"miniProxy"
 intitle:"nPerfServer"
+intitle:”PHP Version” intext:”PHP Version”
 intitle:"web server login" intext:"site ip"
 intitle:"welcome to mono xsp"
 intitle:AnswerBook2 inurl:ab2/ (inurl:8888 | inurl:8889)
