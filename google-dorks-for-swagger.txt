@@ -2,3 +2,6 @@ inurl:swagger-ui
 inurl:swagger.json
 inurl:openapi.json
 inurl:api-docs
+intitle:"Swagger UI" intext:"Swagger UI"
+inurl:swagger_ui OR inurl:swaggerui
+filetype:yaml OR filetype:yml "openapi:"
