@@ -9,3 +9,9 @@ search.php?id=
 search.php
 index.php
 filetyp:php
+inurl:index.php?page=
+inurl:main.php?file=
+inurl:load.php?action=
+inurl:view.php?path=
+inurl:download.php?file=
+ext:php intitle:phpinfo "published by the PHP Group"
