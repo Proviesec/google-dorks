@@ -15,3 +15,8 @@ site:https://docs.google.com/forms viewanalytics intext:company
 site:https://docs.google.com/spreadsheets edit intext:company
 site:https://docs.google.com/spreadsheets responses intext:company
 site:https://docs.google.com/spreadsheets/d/ password intext:company
+site:bitbucket.org "company"
+site:asana.com "company"
+site:notion.so "company"
+site:miro.com "company"
+site:slideshare.net "company"
