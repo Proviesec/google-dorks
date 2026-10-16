@@ -20,7 +20,7 @@ intext:Vulnerability Disclosure site:eu
 intext:Vulnerability Disclosure site:nl
 intext:bounty inurl:/security
 intext:responsible disclosure bounty
-intext:security report monetary inurl:security 
+intext:security report monetary inurl:security
 intext:security report reward inurl:report
 intext:security hackerone
 inurl /bug bounty
@@ -41,7 +41,6 @@ inurl:/.well-known/security ext:txt
 inurl:/.well-known/security ext:txt -hackerone -bugcrowd -synack -openbugbounty
 inurl:/.well-known/security ext:txt intext:hackerone
 inurl:/responsible-disclosure/ university
-inurl:/security ext:txt "contact"
 inurl:/security ext:txt "contact"
 inurl:/security.txt "mailto*" -github.com  -wikipedia.org -portswigger.net -magento
 inurl:reporting-security-issues

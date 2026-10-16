@@ -1,4 +1,4 @@
-site:target.com inurl:admin | inurl:administrator | inurl:adm | inurl:login | inurl:l0gin | inurl:wp-login
+site:example.com inurl:login
 
 inurl:wp-login
 inurl:login

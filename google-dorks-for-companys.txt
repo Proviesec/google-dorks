@@ -1,22 +1,13 @@
-inurl:amazonaws.com inurl:company
-site:amazonaws.com inurl:company
-site:http://atlassian.net inurl:company
-site:atlassian.net intext:company
-site:http://github.com intext:company
-site:http://gitlab.com intext:company
-site:http://pastebin.com inurl:company
-site:http://repl.it intext:company
-site:http://s3.amazonaws.com inurl:company
-site:http://scribd.com intext:company
-site:http://zoom.us inurl:company
-site:https://docs.google.com/document/d/ password intext:company
-site:https://docs.google.com/forms responses intext:company
-site:https://docs.google.com/forms viewanalytics intext:company
-site:https://docs.google.com/spreadsheets edit intext:company
-site:https://docs.google.com/spreadsheets responses intext:company
-site:https://docs.google.com/spreadsheets/d/ password intext:company
-site:bitbucket.org "company"
-site:asana.com "company"
-site:notion.so "company"
-site:miro.com "company"
-site:slideshare.net "company"
+# Replace COMPANY_NAME with the organization name; check each site's scope and terms.
+site:github.com "COMPANY_NAME"
+site:gitlab.com "COMPANY_NAME"
+site:bitbucket.org "COMPANY_NAME"
+site:atlassian.net "COMPANY_NAME"
+site:docs.google.com "COMPANY_NAME"
+site:pastebin.com "COMPANY_NAME"
+site:scribd.com "COMPANY_NAME"
+site:asana.com "COMPANY_NAME"
+site:notion.so "COMPANY_NAME"
+site:miro.com "COMPANY_NAME"
+site:slideshare.net "COMPANY_NAME"
+site:amazonaws.com "COMPANY_NAME"

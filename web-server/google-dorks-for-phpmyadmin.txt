@@ -1,4 +1,3 @@
-
 " phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
 " phpMyAdmin MySQL-Dump" filetype:txt
 "# phpMyAdmin MySQL-Dump" "INSERT INTO" -"the"
@@ -21,14 +20,13 @@ intitle:"index of /phpmyadmin" modified
 intitle:phpMyAdmin
 intitle:phpMyAdmin "Welcome to phpMyAdmin *" "running on as root@"
 intitle:phpMyAdmin "Welcome to phpMyAdmin ***" "running on * as root@*"
-inurl:"/phpmyadmin/user_password.php
+inurl:"/phpmyadmin/user_password.php"
 inurl:"/phpmyadmin/user_password.php" -inurl:git
 inurl:"phpmyadmin/index.php" intext:"[ Edit ] [ Create PHP Code ] [ Refresh ]"
 inurl:.php? intext:CHARACTER_SETS,COLLATIONS, ?intitle:phpmyadmin
 inurl:/phpMyAdmin/setup/index.php?phpMyAdmin=
 inurl:/phpmyadmin/changelog.php -github -gitlab
 inurl:/phpmyadmin/index.php?db=
-inurl:\"/phpmyadmin/user_password.php
 inurl:main.php Welcome to phpMyAdmin
 inurl:main.php phpMyAdmin
 inurl:phpmyadmin/index.php & (intext:username & password & "Welcome to")

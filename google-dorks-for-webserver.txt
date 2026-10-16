@@ -58,7 +58,7 @@ intext:" - 2019 Cott Systems, Inc."
 intext:"404 Object Not Found" Microsoft-IIS/5.0
 intext:"Brought to you by eVetSites"
 intext:"Healthy" + "Product model" + " Client IP" + "Ethernet"
-intext:"Powered by (Quantum | Quantum CMS | CMS)
+intext:"Powered by Quantum CMS"
 intext:"Powered by Abyss Web Server"
 intext:"Powered by GetSimple" -site:get-simple.info
 intext:"Powered by Nesta"
@@ -102,7 +102,7 @@ intitle:"Monsta ftp" intext:"Lock session to IP"
 intitle:"Object not found!" intext:"Apache/2.0.* (Linux/SuSE)"
 intitle:"Object not found" netware "apache 1.."
 intitle:"Open WebMail" "Open WebMail version (2.20|2.21|2.30) "
-intitle:"Page rev */*/*" inurl:"admin
+intitle:"Page rev */*/*" inurl:admin
 intitle:"Resin Default Home Page"
 intitle:"SOGo" site:webmail.*
 intitle:"STEP by STIBO Systems" "Launch STEPworkbench" "Web UI Component Report"
@@ -158,7 +158,7 @@ inurl *:8080/login.php
 inurl: /ftp intitle:"office"
 inurl:"/app/kibana#"
 inurl:"/domcfg.nsf" " Web Server Configuration"
-inurl:"/phpmyadmin/user_password.php
+inurl:"/phpmyadmin/user_password.php"
 inurl:"/web-console/" intitle:"Administration Console"
 inurl:":8088/cluster/apps"
 inurl:"WebPortal?bankid"
@@ -207,4 +207,4 @@ site:vps-*.vps.ovh.net
 yaws.*.server.at
 intitle:"index of" "debian.cnf"
 intitle:"index of" "debian.conf"
-intitle:\"Welcome to nginx!\" intext:\"Welcome to nginx on Debian!\" intext:\"Thank you for\"
+intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!"

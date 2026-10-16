@@ -1,10 +1,13 @@
 intitle:"index of" "nginx.log"
 intitle:"index of" "nginx"
 intitle:Test Page for the Nginx HTTP Server on Fedora
-intitle:\"Welcome to nginx!\" intext:\"Welcome to nginx on Debian!\" intext:\"Thank you for\"
-intitle: "Welcome to nginx!" + "Thank you for using nginx."
+intitle:"Welcome to nginx!" intext:"Welcome to nginx on Debian!"
+intitle:"Welcome to nginx!" + "Thank you for using nginx."
 inurl:nginx_status
 inurl:nginx.conf nginx site:github.com
-site:company.com filetype:conf OR filetype:bak OR filetype:old "nginx"
-site:company.com inurl:/.git/config
-site:company.com inurl:/status/nginx OR inurl:/nginx-status OR inurl:/stub_status
+site:example.com filetype:conf "nginx"
+site:example.com filetype:bak "nginx"
+site:example.com filetype:old "nginx"
+site:example.com inurl:/.git/config
+site:example.com inurl:/nginx-status
+site:example.com inurl:/stub_status

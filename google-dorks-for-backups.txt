@@ -1,5 +1,5 @@
 # ===============================
-# GENERIC BACKUPS (HIGH)
+# GENERIC BACKUPS
 # ===============================
 
 inurl:backup
@@ -27,7 +27,7 @@ inurl:public_html.zip
 inurl:html.zip
 
 # ===============================
-# FILE EXTENSIONS (HIGH SIGNAL)
+# FILE EXTENSIONS
 # ===============================
 
 filetype:bak
@@ -62,7 +62,7 @@ inurl:gitlab-backup
 inurl:ci-backup
 
 # ===============================
-# DIRECTORY LISTING (TARGETED)
+# DIRECTORY LISTING
 # ===============================
 
 intitle:"Index of" backup

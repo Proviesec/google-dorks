@@ -8,7 +8,7 @@ index.php?id=
 search.php?id=
 search.php
 index.php
-filetyp:php
+filetype:php
 inurl:index.php?page=
 inurl:main.php?file=
 inurl:load.php?action=
