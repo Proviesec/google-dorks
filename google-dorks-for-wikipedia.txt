@@ -27,7 +27,7 @@ inurl:wiki
 "isa registered trademark of the Wikimedia Foundation, Inc.,"
 "wiki inurl:.edu"
 wiki inurl:.edu
-"Toolbox""This page was last modified
+"Toolbox" "This page was last modified"
 inurl:"wiki/index.php?title="
 "Login required to edit"
 "wiki/index.php?title=Special:Userlogin&amp;returnto"

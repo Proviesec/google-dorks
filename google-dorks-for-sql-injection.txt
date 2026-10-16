@@ -9,7 +9,8 @@ Browse_Item_Details.php?Store_Id=
 StoreRedirect.php?ID=
 ViewProduct.php?misc=
 WsAncillary.php?ID=
-WsPages.php?ID=noticiasDetalle.php?xid=
+WsPages.php?ID=
+noticiasDetalle.php?xid=
 about.php?cartID=
 abroad/page.php?cid=
 accinfo.php?cartId=

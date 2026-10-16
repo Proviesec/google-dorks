@@ -822,7 +822,6 @@
 "Powered by cityadmin and Red Cow Technologies, Inc."
 "Powered by ClanAdmin Tools v1.4.2"
 "Powered by ClanTiger"
-"Powered by ClanTiger"	
 "Powered by Claroline" -demo
 "Powered by Clicknet CMS"
 "Powered by Clipshare"
@@ -1071,7 +1070,7 @@
 "Powered by Reciprocal Links Manager"
 "Powered by RedCat" inurl:index.php?contentId=
 "Powered by RGameScript"
-"Powered by Rock Band CMS 0.10"	
+"Powered by Rock Band CMS 0.10"
 "powered by runcms" -runcms.com -runcms.org
 "Powered by RW::Download v2.0.3 lite"
 "Powered by samart-cms"
@@ -2592,7 +2591,6 @@
 /cgi-sys/guestbook.cgi?user=cpanel&template=
 /claroline/inc/claro_init_header.inc.php?includePath=
 /class.mysql.php?path_to_bt_dir=
-/class.mysql.php?path_to_bt_dir=   
 /classes.php?LOCAL_PATH=
 /classes/adodbt/sql.php?classes_dir=
 /classes/adodbt/sql.php?classes_dir= "adobt"
@@ -2860,7 +2858,6 @@
 /includes/kb_constants.php?module_root_path= Powered by Knowledge Base
 /includes/mx_functions_ch.php?phpbb_root_path="
 /includes/orderSuccess.inc.php?glob=1&cart_order_id=1&glob[rootDir]=
-/includes/orderSuccess.inc.php?glob=1&cart_order_id=1&glob[rootDir]= 
 /includes/setup.php?phpc_root_path=
 /index.inc.php?PATH_Includes=
 /index.php/main.php?x=
@@ -2971,7 +2968,6 @@
 /modules/coppermine/include/init.inc.php?CPG_M_DIR=
 /modules/coppermine/themes/coppercop/theme.php?THEME_DIR=
 /modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine
-/modules/coppermine/themes/coppercop/theme.php?THEME_DIR= coppermine                                                                                                  
 /modules/coppermine/themes/default/theme.php?THEME_DIR=
 /modules/Forums/admin/admin_styles.php?phpbb_root_path=
 /modules/kernel/system/startup.php?CFG_PHPGIGGLE_ROOT= CFG_PHPGIGGLE_ROOT
@@ -3320,7 +3316,6 @@ administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=modules
 administrator/components/com_cropimage/admin.cropcanvas.php?cropimagedir=modules/My_eGery/index.php?basepath=
 administrator/components/com_linkdirectory/toolbar.linkdirectory.html.php?mosConfig_absolute_path=
 administrator/components/com_mgm/help.mgm.php?mosConfig_absolute_path=
-administrator/components/com_mgm/help.mgm.php?mosConfig_absolute_path= 
 administrator/components/com_peoplebook/param.peoplebook.php?mosConfig_absolute_path=
 administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path=
 administrator/components/com_remository/admin.remository.php?mosConfig_absolute_path= "com_remository
@@ -3980,9 +3975,7 @@ cgi-bin/awstats.pl?update=1&logfile=
 cgi-bin/awstats/awstats.pl?configdir
 cgi-bin/bbs/read.cgi?file=
 cgi-bin/bp/bp-lib.pl?g=
-cgi-bin/bp/bp-lib.pl?g=               
 cgi-bin/hinsts.pl?
-cgi-bin/hinsts.pl?                    
 cgi-bin/ikonboard.cgi
 cgi-bin/index.cgi?page=
 cgi-bin/jammail.pl?job=showoldmail&mail=
@@ -3991,7 +3984,6 @@ cgi-bin/mainstore.cgi?category=
 cgi-bin/probe.cgi?olddat=
 cgi-bin/quikstore.cgi?category=
 cgi-bin/telnet.cgi
-cgi-bin/telnet.cgi                                   
 cgi-bin/ubb/ubb.cgi?g=
 cgi-sys/guestbook.cgi?user=cpanel&template=
 CGI:IRC Login
@@ -4009,7 +4001,6 @@ Checkout.asp?id=
 checkout.asp?UserID=
 checkout.php?cartid=
 checkout.php?UserID=
-checkout.php?UserID=   
 checkout1.asp?cartid=
 checkout1.php?cartid=
 checkout_confirmed.asp?order_id=
@@ -4884,7 +4875,7 @@ filename:_netrc password
 filename:CCCam.cfg
 filename:config irc_pass
 filename:config pass
-filename:config secret 
+filename:config secret
 filename:config.json auths
 filename:config.php dbpasswd
 filename:config.php pass
@@ -4923,7 +4914,7 @@ filename:ventrilo_srv.ini
 filename:WebServers.xml
 filename:wp-config.php
 fileseek.cgi?head=&foot=
-filetyp:php
+filetype:php
 filetype: log inurl:"access.log" +intext:"HTTP/1.1"
 filetype:"xls | xlsx | doc | docx | ppt | pptx | pdf" site:gov "FOUO" | "NOFORN" | "Confidential"
 filetype:abk
@@ -4935,7 +4926,7 @@ filetype:asp + "[ODBC SQL"
 filetype:ASP ASP
 filetype:asp DBQ=" * Server.MapPath("*.mdb")
 filetype:asp DBQ=" Server.MapPath(".mdb")
-filetype:asp DBQ=\" * Server.MapPath(\"*.mdb\") 
+filetype:asp DBQ=\" * Server.MapPath(\"*.mdb\")
 filetype:asp intitle:" Microsoft Outlook Web Access"
 filetype:asp inurl:"shopdisplayproducts.asp"
 filetype:ASPX ASPX
@@ -4946,7 +4937,7 @@ filetype:bak
 filetype:bak (inurl:php | inurl:asp | inurl:rb)
 filetype:bak createobject sa
 filetype:bak inurl:"htaccess|passwd|shadow|htusers"
-filetype:bak inurl:\"htaccess|passwd|shadow|htusers\" 
+filetype:bak inurl:\"htaccess|passwd|shadow|htusers\"
 filetype:bak inurl:php "mysql_connect"
 filetype:bkf bkf
 filetype:blt "buddylist"
@@ -4974,7 +4965,6 @@ filetype:cnf inurl:_vti_pvt access.cnf
 filetype:cnf my.cnf -cvs -example
 filetype:conf
 filetype:conf inurl:firewall -intitle:cvs
-filetype:conf inurl:firewall -intitle:cvs 
 filetype:conf inurl:proftpd. PROFTP FTP server configuration file reveals
 filetype:conf inurl:proftpd.conf -sample
 filetype:conf inurl:psybnc.conf  "USER.PASS="
@@ -4993,7 +4983,7 @@ filetype:ctt ctt messenger
 filetype:cwr inurl:apstoken
 filetype:dat "password.dat
 filetype:dat "password.dat"
-filetype:dat \"password.dat\" 
+filetype:dat \"password.dat\"
 filetype:dat inurl:pass.dat
 filetype:dat inurl:Sites.dat
 filetype:dat wand.dat
@@ -5006,7 +4996,7 @@ filetype:doc inurl:"gov" intext:"default password is"
 filetype:docx Domain Registrar $user $pass
 filetype:eml eml +intext:"Subject" +intext:"From"
 filetype:eml eml +intext:"Subject" +intext:"From" +intext:"To"
-filetype:eml eml +intext:\"Subject\" +intext:\"From\" +intext:\"To\" 
+filetype:eml eml +intext:\"Subject\" +intext:\"From\" +intext:\"To\"
 filetype:env "ANGULAR_"
 filetype:env "ANTHROPIC_API_KEY"
 filetype:env "ANTHROPIC_KEY"
@@ -5081,11 +5071,9 @@ filetype:HTM HTM
 filetype:HTML HTML
 filetype:htpasswd htpasswd
 filetype:inc dbconn
-filetype:inc dbconn 
 filetype:inc inc intext:setcookie
 filetype:inc intext:mysql_connect
 filetype:inc mysql_connect OR mysql_pconnect
-filetype:inc mysql_connect OR mysql_pconnect 
 filetype:inc OR filetype:bak OR filetype:old mysql_connect OR mysql_pconnect
 filetype:inc php -site:github.com -site:sourceforge.net
 filetype:inf inurl:capolicy.inf
@@ -5280,7 +5268,7 @@ filetype:reg "Terminal Server Client"
 filetype:reg reg +intext:"defaultusername" +intext:"defaultpassword"
 filetype:reg reg +intext:"internet account manager"
 filetype:reg reg +intext:…….WINVNC3…….
-filetype:reg reg +intext:\"defaultusername\" +intext:\"defaultpassword\" 
+filetype:reg reg +intext:\"defaultusername\" +intext:\"defaultpassword\"
 filetype:reg reg +intext:â? WINVNC3â?
 filetype:reg reg +intext:Ã¢? WINVNC3Ã¢?
 filetype:reg reg +intext:ÃƒÂ¢Ã¢â€šÂ¬Ã‚ÂWINVNC3ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â
@@ -5302,8 +5290,8 @@ filetype:sql ("values * MD5" | "values * password" | "values * encrypt")
 filetype:sql ("values * MD5? | "values * password" | "values * encrypt")
 filetype:sql ("values * MD5″ | "values * password" | "values * encrypt")
 filetype:sql ("values MD5" | "values password" | "values encrypt")
-filetype:sql (\"passwd values\" | \"password values\" | \"pass values\" ) 
-filetype:sql (\"values * MD\" | \"values * password\" | \"values * encrypt\") 
+filetype:sql (\"passwd values\" | \"password values\" | \"pass values\" )
+filetype:sql (\"values * MD\" | \"values * password\" | \"values * encrypt\")
 filetype:sql +"IDENTIFIED BY" -cvs
 filetype:sql insite:pass && user
 filetype:sql intext:password | pass | passwd intext:username intext:INSERT INTO `users` VALUES
@@ -5313,7 +5301,6 @@ filetype:sql inurl:wp-content/backup-
 filetype:sql inurl:wp-content/backup-*
 filetype:sql inurl:wp-content/uploads
 filetype:sql password
-filetype:sql password 
 filetype:sql site:com and "insert into" admin "2014"
 filetype:sql site:gov and "insert into"
 filetype:sql username
@@ -5342,7 +5329,7 @@ filetype:txt line vty 0 4
 filetype:TXT TXT
 filetype:url +inurl:"ftp://" +inurl:";@"
 filetype:url +inurl:"ftp://" +inurl:"@"
-filetype:url +inurl:\"ftp://\" +inurl:\";@\" 
+filetype:url +inurl:\"ftp://\" +inurl:\";@\"
 filetype:vcs vcs
 filetype:vsd vsd network -samples -examples
 filetype:wab wab
@@ -6012,10 +5999,8 @@ index.of passlist
 index.of perform.ini
 index.of perform.ini mIRC IRC ini file can list IRC usernames and
 index.of.dcim
-index.of.dcim 
 index.of.etc
 index.of.password
-index.of.password 
 index.of.private
 index.of.protected
 index.of.secret
@@ -6050,7 +6035,7 @@ index.php4?lang= index.php4?lang="
 index.php5?lang= .php5?lang="
 index.php5?lang= index.php5?lang=
 index.php5?lang= index.php5?lang="
-index.php? inurl:& 
+index.php? inurl:&
 index.php? inurl=id
 index.php? inurl=page
 index.php? inurl=query
@@ -6370,7 +6355,6 @@ index.php?section=
 index.php?seite=
 index.php?sekce=
 index.php?sel=
-index.php?sel= 
 index.php?select= .php?select=
 index.php?select= .php?select="
 index.php?select= index.php?select=
@@ -6498,7 +6482,6 @@ index1.php?filepath=
 index1.php?func= .php?func="
 index1.php?get=
 index1.php?go=
-index1.php?go= 
 index1.php?goFile=
 index1.php?home=
 index1.php?inc= .php?inc="
@@ -7346,7 +7329,6 @@ intitle:"apache tomcat/" "Apache Tomcat examples"
 intitle:"apache tomcat/" + "Find additional important configuration information in:"
 intitle:"Apache2 Debian Default Page: It works"
 intitle:"Apache2 Ubuntu Default Page: It works"
-intitle:"Apache2 Ubuntu Default Page: It works"    
 intitle:"Apache::Status" (inurl:server-status | inurl:status.html | inurl:apache.html)
 intitle:"API Publisher- Login"
 intitle:"AppServ Open Project *" "AppServ is a merging open source software installer package" -phpbb
@@ -7566,7 +7548,7 @@ intitle:"index of /phpmyadmin" modified
 intitle:"Index of /private/"
 intitle:"Index of c:\Windows"
 intitle:"Index of ftp"
-intitle:"index of" 
+intitle:"index of"
 intitle:"index of" "#README.lilocked"
 intitle:"index of" "*php.swp"
 intitle:"index of" ".cpanel/caches/config/"
@@ -7738,7 +7720,6 @@ intitle:"index of" inurl:ftp (pub | incoming)
 intitle:"index of" inurl:ftp intext:logs
 intitle:"index of" inurl:wp-json embedurl?
 intitle:"Index of" inurl:wp-json/oembed
-intitle:"Index of" inurl:wp-json/oembed    
 intitle:"index of" lesshsQ/ OR .lesshst/ -pool -pub
 intitle:"Index of" login.php
 intitle:"Index of" master.passwd
@@ -8547,7 +8528,7 @@ inur l: info.php?id=
 inur:"arsys/forms" | "arsys/shared" | "/arsys/home"
 inurl *:8080/login.php
 inurl /bug bounty
-inurl /view/view.shtml 
+inurl /view/view.shtml
 inurl /view/view.shtml  airport
 inurl /view/view.shtml  bedroom
 inurl /view/view.shtml  hotel
@@ -9506,7 +9487,7 @@ inurl:/downlot.php?file=
 inurl:/dynamic/login-simple.html?
 inurl:/EasyPAY/view
 inurl:/eftclient/account/login.htm
-inurl:/elfinder/elfinder.html+intitle:"elFinder 2.0" 	
+inurl:/elfinder/elfinder.html+intitle:"elFinder 2.0"
 inurl:/employee/login.php
 inurl:/en-US/account/login?return_to=
 inurl:/en/help.cgi "ID=*"
@@ -9526,7 +9507,6 @@ inurl:/frontend/paper_lantern/index.html
 inurl:/FxCodeShell.jsp/ "Login Form" "Blog Comments"
 inurl:/gallery.asp?cid=
 inurl:/games.php?id= "Powered by PHPD Game Edition"
-inurl:/games.php?id= "Powered by PHPD Game Edition" 
 inurl:/global-protect/login.esp
 inurl:/gmap.php?id=
 inurl:/graphiql
@@ -9808,7 +9788,6 @@ inurl:admin intext:username= AND email= AND password= OR pass= filetype:xls
 inurl:admin intitle:login
 inurl:admin inurl:uploads
 inurl:admin inurl:userlist
-inurl:admin inurl:userlist 
 inurl:admin inurl:userlist Generic userlist files
 inurl:admin. intitle:"admin login"
 inurl:admin.php inurl:admin ext:php
@@ -10187,7 +10166,7 @@ inurl:HT=
 inurl:html
 inurl:html.zip
 inurl:htpasswd filetype:htpasswd
-inurl:http 
+inurl:http
 inurl:http | -inurl:https inurl:ftp ext:pdf taxreturn
 inurl:httpmon.php
 inurl:https://owa
@@ -10196,7 +10175,7 @@ inurl:humor.php?id=
 inurl:idd=
 inurl:ids5web
 inurl:iisadmin
-inurl:image_url 
+inurl:image_url
 inurl:image_url inurl:&
 inurl:imageview5
 inurl:imapuser Mail :: Welcome to Horde imp login.php password
@@ -10569,7 +10548,7 @@ inurl:readnews.php?id=
 inurl:reagir.php?num=
 inurl:redir
 inurl:redir inurl:&
-inurl:redirect 
+inurl:redirect
 inurl:redirect inurl:&
 inurl:redirect_uri
 inurl:redirect_uri inurl:&
@@ -10763,7 +10742,7 @@ inurl:using-joomla/extensions/templates/beez5/home-page-beez5
 inurl:vbstats.php "page generated"
 inurl:ventrilo_srv.ini adminpassword
 inurl:vidyo -site:vidyo.com inurl:portal
-inurl:view 
+inurl:view
 inurl:view inurl:&
 inurl:view.php?board1_sn=
 inurl:view.php?id=
@@ -11636,7 +11615,6 @@ order.asp?id=
 order.asp?item_ID=
 order.asp?lotid=
 order.php?BookID=
-order.php?BookID=   
 order.php?id=
 order.php?item_ID=
 order.php?l= order.php?l=
@@ -11654,7 +11632,7 @@ OrderForm.php?Cart=
 ost.php?id=
 ourblog.php?categoryid=
 out.php?linkid=1
-Outlook Web Access 
+Outlook Web Access
 Outlook Web Access (a better way)
 ov_tv.php?item=
 Overproduction?misc=
@@ -11891,7 +11869,7 @@ parent directory Name of Singer or album -xxx -html -htm -php -shtml -opendivx -
 parent directory Xvid -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
 participant.php?id=
 passlist
-passlist.txt 
+passlist.txt
 passlist.txt (a better way)
 passwd
 passwd / etc (reliable)
@@ -13544,7 +13522,6 @@ socsci/news_items/full_story.php?id=
 software_categories.asp?cat_id=
 software_categories.php?cat_id=
 solpot.html?body=
-solpot.html?body= 
 sources/join.php?FORM[url]=owned&CONFIG[captcha]=1&CONFIG[path]=
 SPBOARD v4.5
 specials.asp?id=
@@ -13910,7 +13887,6 @@ Supplied argument is not a valid PostgreSQL result
 support/mailling/maillist/inc/initdb.php?absolute_path=
 support_login/
 support_page.cgi?file_name=
-support_page.cgi?file_name=           
 sw_comment.php?id=
 swiftmailer intitle:"index of" "smtp.yml" | "smtp.xml"
 sys-admin/
@@ -14090,7 +14066,6 @@ view.php?channel=
 view.php?chapter=
 view.php?choix=
 view.php?cid=
-view.php?cid=  
 view.php?cmd=
 view.php?content=
 view.php?disp=

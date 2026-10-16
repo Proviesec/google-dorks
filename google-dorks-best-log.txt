@@ -13,7 +13,7 @@ inurl:debug.log
 inurl:application.log
 
 # ===============================
-# AUTH / CREDENTIAL LEAKS (HIGH)
+# AUTH / CREDENTIAL LEAKS
 # ===============================
 
 filetype:log "password="
@@ -27,7 +27,7 @@ filetype:log "token="
 allintext:username password filetype:log
 
 # ===============================
-# WEB SERVER LOGS (HIGH)
+# WEB SERVER LOGS
 # ===============================
 
 filetype:log inurl:access.log
@@ -94,7 +94,7 @@ filetype:log "SSL error"
 filetype:log "TLS handshake failed"
 
 # ===============================
-# DIRECTORY LISTING (TARGETED)
+# DIRECTORY LISTING
 # ===============================
 
 intitle:"index of" filetype:log

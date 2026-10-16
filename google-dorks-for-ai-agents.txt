@@ -1,0 +1,7 @@
+inurl:AGENTS.md "tools"
+filetype:md "system prompt" "tools"
+filetype:json "mcpServers"
+filetype:yaml "model" "tools" "agent"
+"system_instruction" "tools"
+"systemInstruction" "tools"
+"prompt_template" "agent"
