@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: MIT
 """Check query-list formatting without making live search requests."""
 
 from pathlib import Path

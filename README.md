@@ -48,4 +48,10 @@ Keep private content behind authentication and authorization, remove accidentall
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) before suggesting a query. Include its purpose, expected signal, likely false positives, and a documentation or public reference when possible. AI-generated suggestions require human review. The repository's small offline check catches duplicate lines and common formatting mistakes; it does not claim to validate live Google results.
 
+## License and attribution
+
+The query lists (`*.txt`) and project documentation (`*.md`) are licensed under [Creative Commons Attribution 4.0 International](LICENSE). You may copy, change, and redistribute them, including commercially. When sharing licensed material, credit **Proviesec** as the source, link to [this repository](https://github.com/Proviesec/google-dorks) and the [license](https://creativecommons.org/licenses/by/4.0/), and indicate if you made changes. The license applies where copyright or database rights exist; it does not create rights over unprotected facts or short search terms.
+
+The Python checker and GitHub Actions workflow are licensed separately under the [MIT License](LICENSE-CODE). Reuse of that code requires keeping its copyright and license notice.
+
 Maintained by [Proviesec](https://proviesec.de/). You can support the project through the links in [.github/FUNDING.yml](.github/FUNDING.yml).

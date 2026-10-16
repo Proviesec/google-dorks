@@ -14,3 +14,5 @@ Prefer short, distinct queries. Keep one query per line in `.txt` files; use `#`
 Run `python3 scripts/check_dorks.py` before submitting. It checks local formatting and duplicate lines, not search effectiveness. Google results vary, so a reviewer must still judge usefulness and scope. AI-generated queries need the same human verification as any other contribution.
 
 Report a live exposure privately to the affected owner. Do not open a public issue with secrets, personal data, or sensitive URLs. See [safe use](docs/safe-use.md).
+
+By submitting a contribution, you confirm that you have the right to license it under the repository's applicable terms: [CC BY 4.0](LICENSE) for queries and documentation, or [MIT](LICENSE-CODE) for the checker and workflow. Keep any required third-party attribution with your contribution.
