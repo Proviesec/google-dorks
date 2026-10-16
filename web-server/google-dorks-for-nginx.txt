@@ -5,3 +5,6 @@ intitle:\"Welcome to nginx!\" intext:\"Welcome to nginx on Debian!\" intext:\"Th
 intitle: "Welcome to nginx!" + "Thank you for using nginx."
 inurl:nginx_status
 inurl:nginx.conf nginx site:github.com
+site:company.com filetype:conf OR filetype:bak OR filetype:old "nginx"
+site:company.com inurl:/.git/config
+site:company.com inurl:/status/nginx OR inurl:/nginx-status OR inurl:/stub_status
